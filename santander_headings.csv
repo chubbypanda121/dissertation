@@ -1,0 +1,15 @@
+level,header,H_length,N_length_notes,N_length,H_grammar,N_grammar_notes,N_grammar,L_grammar,L_grammar_notes,H_passive,N_passive,N_passive_notes,H_subheadings,L_subheadings,H_design,L_design,L_design_notes
+0,Personal Loan,,,,,,,,,,,,,,,0,
+0,Pre-Contractual explanation,1,2,1,1,[],0,1,"This header appears to be a noun phrase, but it's missing an article (""a"" or ""the"") before ""pre-contractual"". It would be more grammatically correct as ""A pre-contractual explanation"" or ""The pre-contractual explanation""",0,0,[],0,0,0,0,"The main heading ""Personal Loan"" is larger and more prominent than the subheadings, which are smaller and aligned to the left. The subheadings are formatted differently from the body text."
+1,What is a 'Personal Loan?',0,5,0,0,[],0,0,,0,0,[],0,0,0,0,"They are larger and bolder than the body text, which is smaller and less bold. This difference in formatting is visible enough to distinguish between subheadings and the body text. "
+1,Put Simply,1,2,1,0,[],0,0,,0,0,[],1,1,0,0,
+1,What checks do you need to do for me to get a personal loan with Santander,1,16,1,0,[],0,1,"This header seems to be a question, but it's missing a verb. It could be rephrased as ""What checks must we complete for you to receive..."" or ""What checks do we need to perform for you to obtain..."".",0,0,[],0,0,0,0,
+1,Put Simply,1,2,1,0,[],0,0,,0,0,[],1,1,0,0,
+1,How much do I have to pay under the agreement,0,9,0,0,[],0,0,,0,0,[],0,0,0,0,
+1,Put Simply,1,2,1,0,[],0,0,,0,0,[],1,1,0,0,
+1,What are the consequences if do not keep up with repayments?,0,11,0,1,['IF_VB'],1,1,"There's a typo in ""wi""; it should be ""with"". Additionally, the sentence could be improved by using the correct form of the verb ""keep up with"" instead of ""do not keep up wi"".",0,0,[],0,0,0,0,
+1,Put Simply,1,2,1,0,[],0,0,,0,0,[],1,1,0,0,
+1,Are there any features of the agreement which may operate in a manner which may adversely affect me?,1,18,1,0,[],0,0,,0,0,[],0,0,0,0,
+1,Put Simply,1,2,1,0,[],0,0,,0,0,[],1,1,0,0,
+1,Your Right to Cancel (and repay early),0,7,0,1,[],0,0,,0,0,[],0,0,0,0,
+1,Put Simply,1,2,1,0,[],0,0,,0,0,[],1,1,0,0,
