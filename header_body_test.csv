@@ -100,14 +100,18 @@ natwest_l,Our lending commitments and what we ask of you,,,,,,,,,
 natwest_l,What we ask of you,"• We ask you to think carefully about whether you can afford to repay the money you want to borrow and to be open in your dealings with us
 • Take care of any cards, PINs, online log-in details and other security information to help prevent fraud and help us to protect your accounts
 • Tell us as soon as possible if your card has been los tor stolen, or if you know or suspect someone is misusing your confidential information e.g. your PIN or online log-in details
-• Carefully check your account statements to make sure they are accurate. If anything isn’t right, please get in touch with us.",0,1,,,,,,
+• Carefully check your account statements to make sure they are accurate. If anything isn’t right, please get in touch with us.",0,1,,1,0,1,"No.
+
+The heading ""What we ask of you"" suggests that the following points will be a list of specific requests or expectations from the bank, but the body text does not explicitly state what the bank is asking of the customer. The points listed are actually instructions or guidelines for the customer's own benefit, rather than requirements from the bank.",1
 natwest_l,Please let us know if,"• Your contact details change, so we can keep our records up to date
 • Your circumstances change, particularly if what’s happened is likely to cause you difficulties in managing your account or financial problems
-• You think that you won’t be able to keep up with your repayments. The sooner you do this, the more likely it is we’ll be able to find a way to help you.",0,1,,,,,,
+• You think that you won’t be able to keep up with your repayments. The sooner you do this, the more likely it is we’ll be able to find a way to help you.",0,1,,1,1,0,"Answer: No
+
+Justification: The header ""Please let us know if"" is a general request for notification, but the body text specifically lists situations where customers should notify the bank, such as changes in contact details or circumstances that may affect their ability to manage their account. The header does not match the specific topics discussed in the body text.",1
 barclays_c,Data Privacy Notice,,,,,,,,,
 barclays_c,Introduction,"We are committed to protecting the information we hold about you. This privacy notice describes how, when and why we, Barclays Bank UK PLC, may use your information, as well as your rights relating to that information.
 This privacy notice also explains how others, such as other members of the Barclays Group, will use your personal information (referred to as ‘personal data’ in this privacy notice). Please see section 4 ‘Who we will share your information with’ for more information on this.
-Certain sections of this notice may only apply to customers who hold certain accounts with us (for example, Wealth Management, Premier or Mortgage customers). If this is the case, we have made this clear in this privacy notice.",,,,,,,,
+Certain sections of this notice may only apply to customers who hold certain accounts with us (for example, Wealth Management, Premier or Mortgage customers). If this is the case, we have made this clear in this privacy notice.",,,,1,,,,
 barclays_c,Information we hold about you,"Information we hold about you will often come from you directly (for example, when you apply for a new product). That information will include the following:
 • Your personal details (for example, your name, date of birth, passport information or other identification information)
 • Your contact details (for example, your postal address, phone number, email address or mobile number)
@@ -145,20 +149,20 @@ If you visit our social media pages or view our content on social media platform
 • your device and internet connection; and
 • your social media profile details and user ID.
 If you have allowed the use of tracking cookies on the social media platform, the information we collect will also include what you click on and what you view.
-If you have allowed the use of tracking cookies on our website, the social media platform provider will be able to collect information about you, your device and which of our web pages you visited, and they will use it to show you products and services that may be of interest to you. We will receive anonymous statistical information about our marketing. You will not be identifiable from this.",,,,,,,,
+If you have allowed the use of tracking cookies on our website, the social media platform provider will be able to collect information about you, your device and which of our web pages you visited, and they will use it to show you products and services that may be of interest to you. We will receive anonymous statistical information about our marketing. You will not be identifiable from this.",,,hold,0,,,,
 barclays_c,What we use your information for and the legal basis for doing so,"We must have a legal basis (lawful reason) to process your personal data. In most cases, the legal basis will be one of the following:
 • To allow us to take actions that are necessary for us to provide you with the product or service you want (for example, to make and receive payments)
 • To allow us to meet our legal obligations (for example, getting proof of your identity to meet our anti-money laundering obligations)
 • To protect our legitimate interests (for example, to understand how customers use our services so we can develop new services and improve the services we currently provide)
 • We have your permission to use your information
 • In the case of sensitive personal data (also known as special categories of personal data), it is in the substantial public interest (for example, to support you if you are or become a vulnerable customer).
-The table below sets out what we use your personal data for and our legal basis for doing so. Where our legal basis is a legitimate interest (that is, where our interests do not outweigh our customers’ interests), those interests are also set out in the table.",,,,,,,,
+The table below sets out what we use your personal data for and our legal basis for doing so. Where our legal basis is a legitimate interest (that is, where our interests do not outweigh our customers’ interests), those interests are also set out in the table.",,,"legal, basis",0,,,,
 barclays_c,Sensitive personal data,"Some of the information we collect is sensitive personal data (also known as special categories of data). In particular, we may process personal data that relates to your health (such as your medical history), biometric data, and any criminal convictions and offences. If we use sensitive personal data, we will usually do so on the legal basis that it is in the wider public interest, to establish, take or defend any legal action or, in some cases, that we have your permission. In any case, we will keep to all laws that apply. We will send you messages by post, telephone, text message, email and other digital methods, including through our cash machines, apps, push notifications (messages that pop up on mobile devices) or online banking services, and through new methods that may become available in the future. These messages may be:
 • to help you manage your account
 • messages we must send to meet our regulatory obligations, such as about changes to your agreements, and to give you information on managing your money
 • to keep you informed about the features and benefits of the products and services we provide to you; or
 • to tell you about products and services (including those of other companies) that may be of interest to you. These are marketing messages. You can ask us to stop or start sending you marketing messages at any time by writing to us, visiting a branch, calling us or, if you use online banking or the Barclays app, when you are logged in.
-We may ask you for permission to collect and use certain types of personal data when we have to do so by law (for example, when we process sensitive personal data or place cookies or similar technologies on devices or browsers). If we ask you for permission to process your personal data, you can refuse, or withdraw your permission at any time, by using the details at the end of this privacy notice or, if in relation to cookies or similar, through the cookie policy on barclays.co.uk.",,,,,,,,
+We may ask you for permission to collect and use certain types of personal data when we have to do so by law (for example, when we process sensitive personal data or place cookies or similar technologies on devices or browsers). If we ask you for permission to process your personal data, you can refuse, or withdraw your permission at any time, by using the details at the end of this privacy notice or, if in relation to cookies or similar, through the cookie policy on barclays.co.uk.",,,sensitive,0,,,,
 barclays_c,Who we will share your information with,"We will keep your information confidential but we may share it with third parties (who also have to keep it secure and confidential) in the following circumstances. Barclays Group companies. We are owned by Barclays PLC, so we work closely with other businesses and companies in the Barclays Group of companies. We may share certain information with other Barclays Group companies (for example, to provide you with products or services, for marketing purposes, for internal reporting and where those companies provide services to us).
 Third party payers. We may share your name with anyone paying money into your account if this is necessary to confirm the payment is being made to the right account. (We would only do this if the payer’s name is a close match with your name or a joint account holder’s name.) This does not apply to children under 13.
 Other financial institutions who you ask us to deal with (for example, when you switch your account from Barclays).
@@ -181,9 +185,9 @@ Your advisers (such as accountants, lawyers and other professional advisers) who
 UK and overseas regulators, law enforcement agencies and authorities in connection with their duties, such as preventing crime (whether directly or through third parties such as credit reference agencies), or carrying out social or economic statistical research. This may include payment details (including information about others involved in the payment).
 Fraud prevention agencies and other third parties, in connection with actual or suspected fraud, financial crime
 or criminal activities, or with monitoring, preventing and investigating fraud, financial crime or criminal activities. In particular, we will always tell fraud prevention agencies if you give us false or fraudulent information. They will also allow other organisations (in the UK or abroad), including law enforcement agencies, to use this information to prevent and detect fraud or other crimes. You can ask us for the details of the fraud prevention agencies we share information with.
-Credit reference agencies. For more information on this, please see below. Because we operate around the world, those listed in the table above may be outside the country you live in (or in which we provide the services). Please see section 8 ‘Sharing information abroad’ for more information.",,,,,,,,
-barclays_c,Insurance and subscriptions,"If you take out an insurance product or a subscription service through us or another company in the Barclays Group of companies, we may share your personal data with the relevant supplier of the insurance or subscription service. Details about how these companies can use your information (including any personal data you give to them yourself) are given in their privacy notices, which will be made available to you before you take out the product or subscription service.",,,,,,,,
-barclays_c,Sharing information about you with tax authorities outside the UK,"We may be required by law or regulation to share information about your accounts with relevant tax authorities, either directly or through the local tax authority. The tax authority we share the information with could then share that information with other appropriate tax authorities. If we need extra documents or information from you about this, you must provide them. If you don’t, we may need to close your account or, if the law or other regulations require us to do so, we’ll withhold parts of certain payments received into your account, and pass the withheld funds to the relevant tax authorities. For more information, please see section 8 ‘Sharing information abroad’.",,,,,,,,
+Credit reference agencies. For more information on this, please see below. Because we operate around the world, those listed in the table above may be outside the country you live in (or in which we provide the services). Please see section 8 ‘Sharing information abroad’ for more information.",,,share,0,,,,
+barclays_c,Insurance and subscriptions,"If you take out an insurance product or a subscription service through us or another company in the Barclays Group of companies, we may share your personal data with the relevant supplier of the insurance or subscription service. Details about how these companies can use your information (including any personal data you give to them yourself) are given in their privacy notices, which will be made available to you before you take out the product or subscription service.",,,"insurance, subscription",0,,,,
+barclays_c,Sharing information about you with tax authorities outside the UK,"We may be required by law or regulation to share information about your accounts with relevant tax authorities, either directly or through the local tax authority. The tax authority we share the information with could then share that information with other appropriate tax authorities. If we need extra documents or information from you about this, you must provide them. If you don’t, we may need to close your account or, if the law or other regulations require us to do so, we’ll withhold parts of certain payments received into your account, and pass the withheld funds to the relevant tax authorities. For more information, please see section 8 ‘Sharing information abroad’.",,,"tax, authority",0,,,,
 barclays_c,Credit reference agencies and fraud prevention agencies,"We carry out credit and identity checks on you with one or more credit reference agencies and fraud prevention agencies. To do this, we will supply your personal data to the agencies and they will give us information about you.
 We will also continue to exchange information about you (and your accounts) with credit reference agencies while you are our customer. The credit reference agencies may in turn share your personal data with other organisations, which those organisations may use to make decisions about you. This may affect your ability to get credit.
 We may continue to collect information about you (and your accounts) from credit reference agencies after your account is closed.
@@ -213,7 +217,7 @@ Your information held by credit reference agencies may be linked to people who a
 • the credit reference agencies already have existing associated records.
 An associated record will be taken into account for all future applications made by either or both of you. The association continues until one of you makes a successful application for the credit reference agencies to file a ‘disassociation’, which allows your information to no longer be linked. You can check for any associations by getting your credit record direct from the credit reference agencies.
 We and fraud prevention agencies may also share your personal data with law enforcement agencies to detect, investigate and prevent crime. If fraud is detected, you could be refused certain services or finance.
-Fraud prevention agencies can hold your personal data for different periods of time. If you are considered to pose a risk of fraud or money laundering, your personal data can be held for up to six years.",,,,,,,,
+Fraud prevention agencies can hold your personal data for different periods of time. If you are considered to pose a risk of fraud or money laundering, your personal data can be held for up to six years.",,,"credit, reference, agency, fraud, prevention, agency",0,,,,
 barclays_c,Sharing information abroad,"When we or fraud prevention agencies share information with organisations in other countries, we will make sure they agree to apply equivalent levels of protection for personal data as we do. If this is not possible (for example, if the law states that we must pass on information) we will make sure the information is shared in line with the relevant law. Also, if a data protection authority does not consider their particular country to have adequate levels of protection for personal data, we will put in place appropriate measures (such as contractual commitments), in line with any legal requirements that apply, to make sure your personal data is adequately protected.
 We or fraud prevention agencies may be required (for the purposes described in this notice) to:
 • transfer personal data from the UK to the EU, the European Economic Area (EEA) or elsewhere; and
@@ -222,7 +226,7 @@ If we, or fraud prevention agencies, allow your personal data to be transferred 
 10
 If you ask us to share information with authorised third parties who provide payment-initiation or account-information services, we will follow the request (whether made by you or someone with authority to deal with the account on your behalf) to share the relevant information.
 (By ‘authorised third parties’ we mean companies that are authorised by the Financial Conduct Authority or another European regulator to provide the relevant service. In the UK, the Financial Conduct Authority’s register (available at https://register.fca.org.uk/) will tell you whether a company is authorised.
-We don’t have control over how those third parties use your information. Before you make your request, we recommend that you (or the person acting on your behalf) consider data-protection practices of that third party by reading their privacy policies or contacting them.",,,,,,,,
+We don’t have control over how those third parties use your information. Before you make your request, we recommend that you (or the person acting on your behalf) consider data-protection practices of that third party by reading their privacy policies or contacting them.",,,,1,,,,
 barclays_c,Keeping your information,"We will keep your personal data for as long as you are our customer. Once our relationship with you has ended (for example, after your account has closed or following a transaction such as a payment, your application for a product is refused, or you decide not to go ahead with an application), we will only keep your personal data for a period of time that is appropriate for the type of personal data, and what we hold it for.
 We will only keep information that allows us to:
 • maintain business records for analysis or audit purposes
@@ -232,7 +236,7 @@ We will only keep information that allows us to:
 • deal with any future complaints about the services we have provided
 • help with monitoring fraud; or
 • assess the effectiveness of marketing we may have sent you.
-The period we keep information for is often linked to the amount of time available to bring a legal claim, which in many cases is six or seven years after your account closes or following a transaction such as a payment. We will keep your personal data after this time if we have to do so to keep to the law, if there are existing claims or complaints that will reasonably require us to keep your information, or for regulatory or technical reasons. If we do need to keep your information for a longer period, we will continue to protect that information.",,,,,,,,
+The period we keep information for is often linked to the amount of time available to bring a legal claim, which in many cases is six or seven years after your account closes or following a transaction such as a payment. We will keep your personal data after this time if we have to do so to keep to the law, if there are existing claims or complaints that will reasonably require us to keep your information, or for regulatory or technical reasons. If we do need to keep your information for a longer period, we will continue to protect that information.",,,,1,,,,
 barclays_c,Your rights,"You have certain rights relating to your personal data. These include the right to:
 • ask for a copy of the personal data we hold about you
 • ask us to give you (or a third party chosen by you) an electronic copy of the personal data you have given us
@@ -241,7 +245,7 @@ barclays_c,Your rights,"You have certain rights relating to your personal data. 
 • ask us to delete personal data; and
 • object to particular ways we are using your personal data.
 Your ability to exercise these rights will depend on a number of factors, and in some instances we will not be able to agree to your request (for example, if we have a legitimate reason for not doing so or the right doesn’t apply to the particular information we hold about you). If you would like more information on your rights, or want to exercise them, you can do so through online banking or by going to barclays.co.uk/control-your-data.
-If any of your personal data changes or is incorrect, please contact us.",,,,,,,,
+If any of your personal data changes or is incorrect, please contact us.",,,,1,,,,
 barclays_c,Automated processing,"The way we analyse personal data relating to our services may involve profiling. This means that we may process your personal data (including sensitive personal data) using software that can evaluate your personal circumstances and other factors to predict risks or outcomes. We may also use profiling, or other automated methods, to make decisions about you that relate to the following.
 • Credit and affordability checks to see whether your application will be accepted
 • Credit limits
@@ -256,14 +260,14 @@ This is known as ‘automated decision-making’ and is only allowed when we hav
 • If automated decisions are necessary for us to enter into a contract. For example, we may decide not to offer our services to you, or we may decide on the types of services that are suitable for you, or how much to charge you for our products, based on your credit history and other financial information we have collected about you
 • If automated decisions are required or authorised by law (for example, to prevent fraud)
 • If it is a reasonable way of keeping to government regulation or guidance, such as our obligation to treat customers fairly.
-You can contact us to ask for a person to review an automated decision.",,,,,,,,
-barclays_c,How automated processing makes decisions,,,,,,,,,
-barclays_c,Credit and affordability assessments,"We will consider a number of factors, including information about your income, your outgoings and how well you have kept up on payments in the past. This will be used to work out the amount we could lend you and you could comfortably afford to pay back.",,,,,,,,
-barclays_c,Regulatory assessments,"We will consider activity on your accounts such as whether you are keeping up with payments, paying off debts, extending overdrafts, or showing signs of financial difficulties. For example, if you are extending an overdraft and have a reduced amount coming into your account, this might indicate that you are likely to get into financial difficulties. We will use this information, for example, to contact you to offer appropriate forms of help.",,,,,,,,
-barclays_c,Protecting you and your account against criminal or fraudulent activity,"We will assess your transactions (payments to and from your account) to identify any that are unusual (for example, payments you would not normally make, or that are made at an unusual time or location). This may stop us from making a payment that is likely to be fraudulent.",,,,,,,,
-barclays_c,Protecting us against criminal or fraudulent activity,"We will assess a number of factors such as whether you have provided false information in the past, where you might be at the time and other information about your credit history to decide whether you are a fraud or financial-crime risk (for example, whether offering services to you may break or not be in line with financial sanctions).",,,,,,,,
-barclays_c,Dormant accounts,"If your account has not been used for a long period, this will trigger action by us and we would ultimately close these accounts.",,,,,,,,
-barclays_c,Pricing (including insurance),"We will assess a number of factors to set the price of certain products for you, such as insurance premiums, where we would assess factors like previous claims, where you live, your occupation and the value of the items you want to insure. We may also assess how you manage your accounts (including online) when setting a price for home insurance. This will allow us to identify the risk of providing cover and so the price we may be willing to offer to you.",,,,,,,,
+You can contact us to ask for a person to review an automated decision.",,,automated,0,,,,
+barclays_c,How automated processing makes decisions,,,,"automated, make, decision",0,,,,
+barclays_c,Credit and affordability assessments,"We will consider a number of factors, including information about your income, your outgoings and how well you have kept up on payments in the past. This will be used to work out the amount we could lend you and you could comfortably afford to pay back.",,,credit,0,,,,
+barclays_c,Regulatory assessments,"We will consider activity on your accounts such as whether you are keeping up with payments, paying off debts, extending overdrafts, or showing signs of financial difficulties. For example, if you are extending an overdraft and have a reduced amount coming into your account, this might indicate that you are likely to get into financial difficulties. We will use this information, for example, to contact you to offer appropriate forms of help.",,,regulatory,0,,,,
+barclays_c,Protecting you and your account against criminal or fraudulent activity,"We will assess your transactions (payments to and from your account) to identify any that are unusual (for example, payments you would not normally make, or that are made at an unusual time or location). This may stop us from making a payment that is likely to be fraudulent.",,,"account, criminal",0,,,,
+barclays_c,Protecting us against criminal or fraudulent activity,"We will assess a number of factors such as whether you have provided false information in the past, where you might be at the time and other information about your credit history to decide whether you are a fraud or financial-crime risk (for example, whether offering services to you may break or not be in line with financial sanctions).",,,criminal,0,,,,
+barclays_c,Dormant accounts,"If your account has not been used for a long period, this will trigger action by us and we would ultimately close these accounts.",,,"dormant, account",0,,,,
+barclays_c,Pricing (including insurance),"We will assess a number of factors to set the price of certain products for you, such as insurance premiums, where we would assess factors like previous claims, where you live, your occupation and the value of the items you want to insure. We may also assess how you manage your accounts (including online) when setting a price for home insurance. This will allow us to identify the risk of providing cover and so the price we may be willing to offer to you.",,,"including, insurance",0,,,,
 barclays_c,Other,"We also analyse you based on your personal data in the following circumstances:
 • To choose personalised offers, discounts or recommendations to send you, based on various factors such as your credit history and how you use the accounts and products you hold with us. We will only stop using your personal data for these purposes if you ask us to stop sending all marketing messages to you, whether by post, email, telephone, text message or through online banking or the Barclays app (if you are registered for these services). If you are a Premier customer, you will also need to have opted-out of promotional Premier contact
 • To categorise your spending and present this information to you in a variety of ways, to help you to manage your finances
@@ -273,12 +277,12 @@ We may also carry out automated anti-money laundering and sanctions checks. This
 If we, or a fraud prevention agency, decide that you pose a fraud or money laundering risk:
 • we may refuse to provide the services you have asked for or we may stop providing existing services to you; and
 • a record of any fraud or money laundering risk will be kept by the fraud prevention agencies, and may result in others refusing to provide services to you or employ you.
-You have rights relating to automated decision-making. If you want to know more, please contact us using the details set out in section 13 ‘How to contact us’.",,,,,,,,
+You have rights relating to automated decision-making. If you want to know more, please contact us using the details set out in section 13 ‘How to contact us’.",,,,1,,,,
 barclays_c,Cookies,"We use cookies and similar technologies on our websites and apps, and in our emails. Cookies are text files that gather small amounts of information, which your computer or mobile device stores when you visit a website or use an app. When you return to the website or app, or visit websites and apps that use the same cookies, they recognise these cookies and your device.
 We use cookies to do many different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving your online experience. They can also make sure that the adverts you see online are more relevant to you and your interests. We also use similar technologies such as pixel tags and JavaScript for these purposes.
 We also use cookies in some of our emails to help us understand how you interact with our emails and to help us improve our future email communications. These cookies also help us make sure that the adverts you see online are more relevant to you and your interests.
 If you’ve allowed us to use cookies that support our marketing on social media platforms, it will allow the social media platform provider (such as Facebook) to collect information about you, your device and which of our web pages you have visited. This information allows us to show you relevant products and services on social media platforms.
-The cookies policy on our websites and apps gives you more information on cookies, how and where we use them, and how you can control them.",,,,,,,,
+The cookies policy on our websites and apps gives you more information on cookies, how and where we use them, and how you can control them.",,,cooky,0,,,,
 barclays_c,Social media platforms,"For certain information we collect about you from social media platforms, we will be a ‘joint controller’ with the social media platform provider. This means we and the social media platform provider will be jointly responsible for deciding how and why to process your information. This applies, for example, where we collect information about you, such as from your actions on our social media pages or through the social media platform pixels (which are similar to tracking cookies) on our website.
 13
 Where we are a joint controller, we have agreed with the social media platform provider to share some responsibilities to protect your personal information by:
@@ -286,7 +290,7 @@ Where we are a joint controller, we have agreed with the social media platform p
 • honouring your legal rights relating to your information; and
 • making sure your information is secure while it is being processed.
 You can contact us to find out more about how we protect your information when we are a joint controller. You can also contact the social media platform provider about what they do or read their privacy notice, which includes details of your legal rights relating to the information the social media platform provider collects and keeps.
-We act as joint controllers with Facebook and Instagram.",,,,,,,,
+We act as joint controllers with Facebook and Instagram.",,,"social, medium, platform",0,,,,
 barclays_c,How to contact us,"If you have any questions about our privacy notice, go to barclays.co.uk/control-your-data. If you would like more information on your rights, or want to exercise them, please contact us through online banking or go to barclays.co.uk/control-your-data.
 You can contact our Data Protection Officer by writing to:
 The Data Protection Officer Barclays Bank UK PLC Leicester
@@ -294,9 +298,9 @@ LE87 2BB.
 Or you can send an email to DPO@Barclays.com.
 Barclays Bank UK PLC is the ‘data controller’ for your personal data. This means they are responsible for deciding how we can use your personal data. For some Wealth Management customers, the data controller is Barclays Investment Solutions Limited.
 If you are an EU citizen or Regulator, for the purposes of GDPR, our appointed representative is Barclays Bank Ireland PLC. The appointed representative can be contacted by emailing DPO@Barclays.com.
-We are committed to working with you to settle any complaint or concern about privacy. If you are not happy with how we have dealt with your complaint or concern, you can complain to the data protection authority of the United Kingdom using their website at https://ico.org.uk.",,,,,,,,
+We are committed to working with you to settle any complaint or concern about privacy. If you are not happy with how we have dealt with your complaint or concern, you can complain to the data protection authority of the United Kingdom using their website at https://ico.org.uk.",,,contact,0,,,,
 barclays_c,Changes to our privacy notice,"You can ask us for a copy of this privacy notice using the contact details set out above. We may change or update this privacy notice from time to time.
-If changes to this privacy notice will have a major effect on what we do with your personal data or on you personally, we will give you enough notice to allow you to exercise your rights (for example, to object to the processing).",,,,,,,,
+If changes to this privacy notice will have a major effect on what we do with your personal data or on you personally, we will give you enough notice to allow you to exercise your rights (for example, to object to the processing).",,,,1,,,,
 natwest_c,Sample Credit Card Agreement,,,,,,,,,
 natwest_c,1 Credit Limit and Advance Limit,"The Credit Limit is the most you are allowed to owe on your account. The Advance Limit forms part of the Credit Limit and is the most you are allowed to owe for Advances. We will give you notice of these limits and may change them. Advances are when you use your credit card account for: Withdrawing cash
 Payments to a UK bank or building society current account (Money Transfers). Please note that Money Transfers may incur a different rate of interest from the Advances rate. Please see your interest rates tabled at section 4 for details of the rates which apply to this Agreement.
@@ -307,7 +311,7 @@ Payments to merchants we identify as being in the business of gambling, even if 
 A transaction where you buy goods or services using your card or card number is a Purchase unless we have described it as an Advance.
 Balance Transfers are when we pay your debt to another financial institution and charge it to your account. Balance Transfers are not treated as Advances and cannot be made to pay a debt you owe us or any other member of NatWest Group. Subject to available credit, you may carry out Balance Transfers up to 95% of your Credit Limit. Each Balance Transfer must be for at least £100.
 You can request an increase in your Credit Limit. Before agreeing an increase, we will assess your ability to pay. After notice of a Credit Limit increase you can tell us you wish to keep your existing limit or request the increase as soon as possible. At any time you can request a reduction in your Credit Limit and opt out of future Credit Limit increases.
-The numbers to call to make these requests are at the end of the General Conditions. Your account is a personal account and must not be used for business purposes.",,,,,,,,
+The numbers to call to make these requests are at the end of the General Conditions. Your account is a personal account and must not be used for business purposes.",,,"limit, advance, limit",0,,,,
 natwest_c,2 Payments,"Each month you must pay at least the Minimum Payment shown
 on your statement.
 The Minimum Payment will be the greater of:
@@ -318,21 +322,21 @@ You can pay the whole or part of your balance at any time using the payment meth
 When we ask, you must immediately pay us any amount you owe over your Credit Limit.
 We encourage you to pay more than the minimum amount each month, to clear your balance more quickly and pay less interest. If you’re finding it difficult to make payments please tell us so that we can try to help.
 You must not create a credit balance on your account by overpaying to your card. We may return any credit balance to you.
-You can also access details of your up to date balance, payments and transactions using online or mobile banking, or by calling us on the General Enquiries number set out at the end of this Agreement. Please call us if you would like more information on these services.",,,,,,,,
+You can also access details of your up to date balance, payments and transactions using online or mobile banking, or by calling us on the General Enquiries number set out at the end of this Agreement. Please call us if you would like more information on these services.",,,payment,0,,,,
 natwest_c,3 APR and Total Amount Payable,"XX.X% APR (variable)
 APR means the Annual Percentage Rate of charge; it is based on the assumptions below and reflects the cost of borrowing, including interest on Purchases and any other charges you have to pay.
 The APR does not take account of any future changes to interest rates, fees or charges or the terms of any special offers.
 £XXXX.XX is the Total Amount Payable under the Agreement.
-The APR and Total Amount Payable are based on the assumption that at account opening you make a Purchase that totals £1,200. Any annual fee is treated as paid on the same day as the Purchase is debited. The Purchase balance is reduced to zero by 12 equal instalments which together with interest are paid monthly, starting one month after the date of initial drawdown. It is assumed that no other transactions take place and the Purchase interest rate remains unchanged.",,,,,,,,
+The APR and Total Amount Payable are based on the assumption that at account opening you make a Purchase that totals £1,200. Any annual fee is treated as paid on the same day as the Purchase is debited. The Purchase balance is reduced to zero by 12 equal instalments which together with interest are paid monthly, starting one month after the date of initial drawdown. It is assumed that no other transactions take place and the Purchase interest rate remains unchanged.",,,"apr, amount",0,,,,
 natwest_c,4 Interest rates,"All rates shown are variable unless stated as fixed. They will apply until we change them.
 If you take up any special offer, the terms of that offer, including any transaction fee, will apply. If you break this Agreement, we may reduce or end any special offer by giving you written notice.
 We may change any other interest rate for any of the reasons set out in General Condition 9(b). We will give you at least 30 days’ written notice before the change is made, unless it is an interest rate reduction, or a change that you have requested and we have agreed to, in which case we may make it immediately and will confirm the details of it to you in writing within 30 days.
-You will have an opportunity to opt out of an interest rate increase by giving us notice to close your account. For more details, see General Condition 9(e).",,,,,,,,
+You will have an opportunity to opt out of an interest rate increase by giving us notice to close your account. For more details, see General Condition 9(e).",,,"interest, rate",0,,,,
 natwest_c,5 Your right to cancel,"You have 14 days to cancel this Agreement, without giving us a reason.
 That 14 day period starts the day after you receive your first card and ends 14 days afterwards.
-You can do this by writing to National Westminster Bank Plc, Cards Customer Services, PO Box 5747, Southend-on-Sea SS1 9AJ or by telephoning 0370 333 9091 (Minicom 0800 141 3999). You must pay the balance and accrued interest within 30 days. You will not have to pay any fees or other charges. Payment can be made by sending a cheque payable to National Westminster Bank Plc to the same address or we can advise you of alternative payment options on request. You can obtain details of the balance and the daily amount of interest by telephoning 0370 333 9091.",,,,,,,,
-natwest_c,Warning – missing payments,"If you miss payments this could make obtaining credit more difficult and we may take court action. If you still do not pay what you owe, a court order could be enforced against you and (except in Scotland) your home may be repossessed.",,,,,,,,
-natwest_c,General Conditions,,,,,,,,,
+You can do this by writing to National Westminster Bank Plc, Cards Customer Services, PO Box 5747, Southend-on-Sea SS1 9AJ or by telephoning 0370 333 9091 (Minicom 0800 141 3999). You must pay the balance and accrued interest within 30 days. You will not have to pay any fees or other charges. Payment can be made by sending a cheque payable to National Westminster Bank Plc to the same address or we can advise you of alternative payment options on request. You can obtain details of the balance and the daily amount of interest by telephoning 0370 333 9091.",,,cancel,0,,,,
+natwest_c,Warning – missing payments,"If you miss payments this could make obtaining credit more difficult and we may take court action. If you still do not pay what you owe, a court order could be enforced against you and (except in Scotland) your home may be repossessed.",,,payment,0,,,,
+natwest_c,General Conditions,,,,"general, condition",0,,,,
 natwest_c,1 Cards,"(a) We will issue a card and PIN (personal identification number) to you and open an account. You may request the issue of cards and PIN(s) to others but we may decide not to issue them or to limit the number issued.
 (b) You (and any additional cardholder) must:
 • sign the card when received and follow any activation procedures;
@@ -346,7 +350,7 @@ Some third party providers might ask you for your online Security Details to pro
 • exceed your Credit Limit or Advance Limit;
 • use a card after it has expired or been cancelled;
 • use a card for illegal purposes.
-(d) We may reissue a card or issue a different card type from the one you applied for and your account number may change.",,,,,,,,
+(d) We may reissue a card or issue a different card type from the one you applied for and your account number may change.",,,,1,,,,
 natwest_c,2 Card transactions,"(a) You (and any additional cardholder) may carry out transactions with the card or card number, after we have opened the account, by following any procedures required and you must pay all amounts charged to the account.
 (b) Any transaction in a foreign currency will be converted to sterling at the Payment Scheme Exchange Rate (the rate provided by Visa, Mastercard or any other payment scheme), at the date of application to the account. For information on exchange rates you can call the number at the end of these General Conditions or visit the website of the payment scheme shown on your card (for example, Visa or Mastercard).
 (c) Provided you do not exceed the Credit Limitor Advance Limit, you (or any additional cardholder) can use a card to withdraw cash from cash machines up to your daily cash withdrawal limit. This limit applies to withdrawals inside and outside the UK and we may change it from time to time. You will be charged the Cash Fee and interest at the Advances rate for these withdrawals.
@@ -408,16 +412,16 @@ You may sometimes use your card to authorise a transaction where the amount to b
 You won’t be refunded if you gave your consent to the payment directly to us and, at least 4 weeks in advance:
 • we or the merchant provided you with information about the payment; or
 • information about the payment was made available to you (for example, at any branch or through online banking).
-We may ask you for additional information to decide whether you should be refunded. We’ll refund you, or explain why we’re refusing the refund, within 10 business days of your request for a refund or (if we’ve asked you for additional information) within 10 business days of us receiving that information.",,,,,,,,
-natwest_c,3 Statements,Monthly statements will be issued to provide you with details of payments and all amounts charged to your account since your previous statement.,,,,,,,,
+We may ask you for additional information to decide whether you should be refunded. We’ll refund you, or explain why we’re refusing the refund, within 10 business days of your request for a refund or (if we’ve asked you for additional information) within 10 business days of us receiving that information.",,,transaction,0,,,,
+natwest_c,3 Statements,Monthly statements will be issued to provide you with details of payments and all amounts charged to your account since your previous statement.,,,statement,0,,,,
 natwest_c,4 Charges and tax,"(a) You must pay the charges set out in the Charges Tariff, together with any tax, duty or other charge required to be paid to any authority, which will be applied to your account.
-(b) Youmustpayanyreasonablecostsweincurinenforcingpayment,afteraswellasbeforeany court order, including the cost of finding you if you change your address but do not tell us.",,,,,,,,
+(b) Youmustpayanyreasonablecostsweincurinenforcingpayment,afteraswellasbeforeany court order, including the cost of finding you if you change your address but do not tell us.",,,"charge, tax",0,,,,
 natwest_c,5 Calculation of interest,"(a) Interest is charged on Purchases, Advances, Money Transfers and Balance Transfers from the date the transaction is applied to the account until paid.
 (b) Interest accrues on fees and charges, except annual or Instalment Plan fees. This interest accrues at the Purchases rate and is charged from the date of application to the account until paid. Default Charge interest will not be charged before expiry of any deferral period required by law.
 (c) Interest on interest accrues at the same rate as the category of transaction, fee or charge on which interest is charged, from the date that interest is applied. We do not charge interest on interest for Default Charges.
 (d) Interestiscalculatedusingadailyinterestrate(derivedfromtheAnnualRate)ontheaverage daily balance since the previous statement date.
 (e) Yourstatementwillshowabalanceandapaymentdate.Ifyoupaythefullbalanceandalso paid the full balance on the previous month’s statement by the relevant payment dates, you will not have to pay interest on Purchases. Interest is applied to your account on the statement date but, when necessary, an adjustment (to include interest on Purchases) will be made on the next statement.
-(f) Interest will continue to be charged after any court order for payment until it is satisfied.",,,,,,,,
+(f) Interest will continue to be charged after any court order for payment until it is satisfied.",,,interest,0,,,,
 natwest_c,6 Payments,"(a) Paymentstoyouraccountwillnotreduceabalanceuntilthepaymentiscleared.Yourmonthly statement includes information about clearance periods.
 (b) You cannot choose how a payment is applied to your account. We apply any payments you make to your account in the following order:
 • to pay your contractual Minimum Payment under section 2 of this Agreement;
@@ -431,14 +435,14 @@ natwest_c,6 Payments,"(a) Paymentstoyouraccountwillnotreduceabalanceuntilthepaym
 • special offer interest rate, they will be reduced according to their special offer expiry dates, with the earlier paid first.
 (d) We treat any payments made to your account as reducing overdue amounts from previous monthly statements before reducing the Minimum Payment.
 (e) WemaygivenoticeallowingyounottomakeaMinimumPayment.Ifso,interestwillstillaccrue.
-(f) If a payment is made to your account and the payer’s bank tells us that it is a mistake, we may pass them your contact details so that they can discuss the payment with you. This will happen if you tell us that the payment has been made correctly or do not respond when we ask you about it.",,,,,,,,
+(f) If a payment is made to your account and the payer’s bank tells us that it is a mistake, we may pass them your contact details so that they can discuss the payment with you. This will happen if you tell us that the payment has been made correctly or do not respond when we ask you about it.",,,payment,0,,,,
 natwest_c,7 Lost or stolen cards,"(a) If a card is lost or stolen, or you suspect it is lost or stolen, or that some one who is not authorised to access your account knows its details, or your Security Details, or that a card, its details or its Security Details were used without your agreement, you must tell us immediately. The address and telephone numbers are at the end of these General Conditions, and you can also call us from a branch.
 (b) If a card is misused before you report its loss or theft, or that someone else knows the Security Details, you will only have to pay up to £35 for any misuse.
 But if the card is misused by someone who has it with your permission, you will have to pay for all transactions. Once you have given notice of loss, theft or possible misuse, we will cancel the card and you will not be liable for any further transactions. If you then find the card you must not use it. To prevent fraud, cut it in half through the signature box, magnetic strip and chip.
 (c) We may give any appropriate third party information:
 • in connection with the use, loss, or theft of the card, and/or the Security Details; or
 • in order to meet our obligations as a member of the relevant payment scheme.
-(d) If we know or suspect that your card or its details, or Security Details have been used without your agreement, we will contact you using the most recent details we hold for you. We may do so using any of the means of communication set out at General Condition 10. Remember, we’ll never ask you to disclose your full Security Details to us or to any other person or organisation.",,,,,,,,
+(d) If we know or suspect that your card or its details, or Security Details have been used without your agreement, we will contact you using the most recent details we hold for you. We may do so using any of the means of communication set out at General Condition 10. Remember, we’ll never ask you to disclose your full Security Details to us or to any other person or organisation.",,,,1,,,,
 natwest_c,8 Ending or restricting use of a card or account and ending the Agreement,"(a) If we have a good reason, including if:
 • you break this Agreement in a serious way;
 • we notify you that we are closing your card;
@@ -454,7 +458,7 @@ we may suspend, restrict or withdraw the use of any card or the account and/or r
 (d) WemayendtheAgreementatanytimeaftergivingyouwrittennotice,whichinnormal circumstances will not be less than two months. When this happens we may give information about you and the account to credit reference agencies.
 (e) WhentheAgreementendswewillcontinuetoapplyinterestandchargesuntilyouhavepaid everything you owe under the Agreement. This may include any active Instalment Plans.
 (f) We may take immediate steps to recover all amounts due on your death or bankruptcy or if you break this Agreement. Such steps will include serving any notice or obtaining a court order if required by law.
-(g) We own any cards issued by us and, if we ask, you must return a cancelled card.",,,,,,,,
+(g) We own any cards issued by us and, if we ask, you must return a cancelled card.",,,account,0,,,,
 natwest_c,9 Changes to the Agreement,"(a) We may make changes at any time to:
 • any interest rate;
 • the Charges Tariff (including introducing new fees or charges) or;
@@ -474,7 +478,7 @@ natwest_c,9 Changes to the Agreement,"(a) We may make changes at any time to:
 • make them clearer or more favourable to you.
 (c) Wewillgiveyouatleast30days’writtennoticebeforeanychangeismadeunlessthechange is to your advantage, or where you have requested the change and we have agreed to it, in which case we may make the change immediately and will confirm the details of it to you in writing within 30 days.
 (d) We may change or withdraw any benefits or services associated with the card, or change the provider of those benefits or services, at any time. We will do this for any of the reasons listed in General Condition 9(b) or for any other valid reason. We will give you at least 30 days’ prior written notice before doing this.
-(e) If you tell us that you want to close your account within 60 days of the date shown on any notice we send advising you of an interest rate increase, the increase will not apply.",,,,,,,,
+(e) If you tell us that you want to close your account within 60 days of the date shown on any notice we send advising you of an interest rate increase, the increase will not apply.",,,change,0,,,,
 natwest_c,10 Communications and contact details,"(a) We will contact you and provide notices and information to you (including credit card statements and notices of changes to this Agreement) by:
 (i) post;
 (ii) email to the email address you have provided to us;
@@ -485,10 +489,10 @@ Please note that notices and information sent to you by the methods set out at (
 (b) We may also contact you by telephone.
 (c) If your contact details change (including any of your name, address, telephone number(s) or email address), you must tell us promptly to ensure you receive all communications. If you telephone us to inform us of the change, you may be asked to confirm in writing.
 (d) You should ensure that your electronic device(s) are set up in order to receive our electronic communications (for example, they have the correct hardware, software, operating system and browser).
-(e) All communications to you will be in English.",,,,,,,,
+(e) All communications to you will be in English.",,,"contact, detail",0,,,,
 natwest_c,11 Disclosure of information and transferring debts,"We may give to anyone any information about you or this Agreement in connection with any proposed transfer of, or financial arrangement by reference to, this Agreement.
-We may allow any person or organisation to take over any of our rights and duties under this Agreement. References to us in this Agreement include our successors.",,,,,,,,
-natwest_c,12 Waiver,"If we waive any of our rights, it does not mean that we will again waive that right in future.",,,,,,,,
+We may allow any person or organisation to take over any of our rights and duties under this Agreement. References to us in this Agreement include our successors.",,,,1,,,,
+natwest_c,12 Waiver,"If we waive any of our rights, it does not mean that we will again waive that right in future.",,,,1,,,,
 natwest_c,"13 Governing law, regulatory information and other rights","(a) If a transaction from or payment to your account is not correctly made, you must contact us about it without undue delay and in any case no later than 13 months after the date on which the transaction was debited to your account or the payment debited to the payer’s account. You can do so by calling the number at the end of these General Conditions. If the error was our fault, we will be liable to you, including to refund any interest and charges that you incur on your accounts as a result of the payment or transaction not being made correctly on time.
 (b) IfyouliveinScotland,ScotslawappliestothisAgreement.IfyouliveinNorthernIreland, the law of Northern Ireland will apply. If you live elsewhere, English law applies. If there is a dispute between us, you can take legal action against us in any UK court.
 (c) We have a complaints handling procedure you can use to resolve any issues. For more information about this procedure you can get a leaflet from any branch or by telephone.
@@ -502,7 +506,7 @@ Our response to your complaint will outline any deadlines you have to contact th
 You may also be entitled to use the European Commission’s Online Dispute Resolution platform to resolve your complaint. The platform can be found at http://ec.europa.eu/odr.
 (d) TheFinancialConductAuthorityof12EndeavourSquare,LondonE201JNisthesupervisory authority under the Consumer Credit Act 1974. We are entered on the Financial Services Register and our registration number is 121878.
 (e) Our registered address is 250 Bishopsgate, London EC2M 4AA.
-(f) You may request a copy of this Agreement at any time by writing to us at National Westminster Bank Plc, Cards Customer Services, PO Box 5747, Southend-on-Sea SS1 9AJ.",,,,,,,,
+(f) You may request a copy of this Agreement at any time by writing to us at National Westminster Bank Plc, Cards Customer Services, PO Box 5747, Southend-on-Sea SS1 9AJ.",,,law,0,,,,
 natwest_c,14 Your Information,"(a) We are a member of NatWest Group. For more information about other NatWestGroup companies please visit natwestgroup.com or contact your branch or Relationship Manager.
 (b) We collect and process various categories of personal and financial information throughout your relationship with us, to allow us to provide our products and services and to run our business. This includes basic personal information such as your name and contact details, and information about your financial circumstances, your accounts and transactions. We have a duty to keep customer information confidential. This section sets out how we may share your information with other NatWest Group companies and third parties. (c) Inrespectofanypersonalinformationrelatingtoathirdpartythatyouprovidetous,youmust:
 • notify the third party that you are providing their personal information to us and obtain their permission;
@@ -525,22 +529,22 @@ natwest_c,14 Your Information,"(a) We are a member of NatWest Group. For more in
 (f) If you ask us to, we will share information with any third party that provides you with account information or payment services. If you ask a third party provider to provide you with account information or payment services, you’re allowing that third party to access information relating to your account. We’re not responsible for any such third party’s use of your account information, which will be governed by their agreement with you and any privacy statement they provide to you.
 (g) In the event that any additional authorised users are added to your account, we may share information about the use of the account by any authorised user with all other authorised users.
 (h) NatWest Group will not share your information with third parties for their own marketing purposes without your permission.
-(i) We may transfer your information to organisations in other countries (including to other NatWest Group companies) on the basis that anyone to whom we pass it protects it in the same way we would and in accordance with applicable laws. We will only transfer your information if we are legally obligated to do so, or where the other country has laws that adequately protect your information, or where we have imposed contractual obligations on the recipients that require them to protect your information to the same standard as we are legally required to.",,,,,,,,
-natwest_c,15 Instalment Plans,,,,,,,,,
-natwest_c,(a) What is an Instalment Plan?,"It’s an option we might offer on your account to let you pay larger Purchases off in fixed monthly instalments. We might also offer this option on Balance Transfers that are, or are shortly to be, out of their promotional period. If it’s available to you, we’ll let you know via our mobile banking app once you’ve made a qualifying transaction or have an eligible Balance Transfer. We’ll tell you more about any available plan, including fees, via the app before you take it out.",,,,,,,,
+(i) We may transfer your information to organisations in other countries (including to other NatWest Group companies) on the basis that anyone to whom we pass it protects it in the same way we would and in accordance with applicable laws. We will only transfer your information if we are legally obligated to do so, or where the other country has laws that adequately protect your information, or where we have imposed contractual obligations on the recipients that require them to protect your information to the same standard as we are legally required to.",,,,1,,,,
+natwest_c,15 Instalment Plans,,,,"instalment, plan",0,,,,
+natwest_c,(a) What is an Instalment Plan?,"It’s an option we might offer on your account to let you pay larger Purchases off in fixed monthly instalments. We might also offer this option on Balance Transfers that are, or are shortly to be, out of their promotional period. If it’s available to you, we’ll let you know via our mobile banking app once you’ve made a qualifying transaction or have an eligible Balance Transfer. We’ll tell you more about any available plan, including fees, via the app before you take it out.",,,"instalment, plan",0,,,,
 natwest_c,(b) How does it work?,"
-If we tell you you’re eligible to move a transaction or eligible Balance Transfer to an Instalment Plan, you’ll have a set amount of time to tell us you want to do this. We’ll then move the transaction or Balance Transfer amount to a plan and you’ll pay a monthly fee and a fixed instalment on top of your normal monthly Minimum Payment. We don’t charge any interest on Instalment Plan repayments or Instalment Plan fees.",,,,,,,,
+If we tell you you’re eligible to move a transaction or eligible Balance Transfer to an Instalment Plan, you’ll have a set amount of time to tell us you want to do this. We’ll then move the transaction or Balance Transfer amount to a plan and you’ll pay a monthly fee and a fixed instalment on top of your normal monthly Minimum Payment. We don’t charge any interest on Instalment Plan repayments or Instalment Plan fees.",,,,1,,,,
 natwest_c,(c) Missing an Instalment Plan repayment,"If you miss or only partly pay one Instalment Plan repayment, the amount of that repayment or, in the case of a partial payment, the shortfall will go back into the main part of your credit card balance from your next monthly statement date and interest will be charged at your normal Purchases or Balance Transfers rate, as applicable. Due to how we apply payments, if you only partly pay one Instalment Plan repayment then the Instalment Plan fee (or a proportion of it) may also go back into your main balance. You will see any missed or partly made Instalment Plan repayments in the app. We will not charge interest on the Instalment Plan fee.
-If you miss or partly pay two Instalment Plan repayments, the full Instalment Plan balance will go back into the main part of your credit card balance from your next monthly statement date and interest will be charged at your normal Purchases or Balance Transfers rate, as applicable. We will not charge interest on the Instalment Plan fee.",,,,,,,,
+If you miss or partly pay two Instalment Plan repayments, the full Instalment Plan balance will go back into the main part of your credit card balance from your next monthly statement date and interest will be charged at your normal Purchases or Balance Transfers rate, as applicable. We will not charge interest on the Instalment Plan fee.",,,"instalment, plan, repayment",0,,,,
 natwest_c,(d) Cancelling an Instalment Plan,"An Instalment Plan will end if you miss or partly pay two Instalment Plan repayments as outlined
 above at point (c).
 You can cancel an Instalment Plan at any time. If you do, you will not be charged any additional monthly Instalment Plan fees and the Instalment Plan balance will go back into the main part of your credit card balance on the next working day. Interest will be charged at your normal Purchases or Balance Transfers rate, as applicable. We will not charge interest on the Instalment Plan fee.
-We can cancel an Instalment Plan if you break your Agreement with us. If we do, the full Instalment Plan balance and the monthly fee will go back into the main part of your credit card balance from your next monthly statement date and interest will be charged at your normal Purchases or Balance Transfers rate, as applicable. We will not charge interest on the Instalment Plan fee.",,,,,,,,
+We can cancel an Instalment Plan if you break your Agreement with us. If we do, the full Instalment Plan balance and the monthly fee will go back into the main part of your credit card balance from your next monthly statement date and interest will be charged at your normal Purchases or Balance Transfers rate, as applicable. We will not charge interest on the Instalment Plan fee.",,,"instalment, plan",0,,,,
 natwest_c,(e) Paying off a plan early,"If you want to pay off an Instalment Plan early, you will need to pay off the rest of your credit
-card balance first.",,,,,,,,
-natwest_c,(f) Overpayments,"If you overpay and we apply a payment towards your outstanding Instalment Plan balance, you will still need to make your next month’s Instalment Plan repayment on time. Any overpayments will reduce the length of time your plan is in place for and may reduce any final payment. We’ll let you know in your monthly credit card statement.",,,,,,,,
+card balance first.",,,plan,0,,,,
+natwest_c,(f) Overpayments,"If you overpay and we apply a payment towards your outstanding Instalment Plan balance, you will still need to make your next month’s Instalment Plan repayment on time. Any overpayments will reduce the length of time your plan is in place for and may reduce any final payment. We’ll let you know in your monthly credit card statement.",,,,1,,,,
 santander_a,BASIC Current Account,,,,,,,,,
-santander_a,Key Fax Document,,,,,,,,,
+santander_a,Key Fax Document,,,,document,0,,,,
 santander_a,,"These Specific Terms and Conditions apply in addition to our General Terms and Conditions and
 cover your Basic Current Account and your Santander Top-Up Debit Card.
 These accounts may be withdrawn at any time without notice. If a Specific Term or Condition in this KFD differs from the General Terms and Conditions, the Specific Term or Condition in this KFD will apply.
@@ -550,15 +554,29 @@ By opening a Basic Current Account:
 ¡ you will also receive a cash card.
 Whilst you will be able to view and manage your Basic Current Account and your Top-Up card separately, they will be linked so that you can easily transfer money between the two. Once you have paid money into your Top-Up card, you can use it online, in shops or to withdraw cash at cash machines.
 Please note that neither the cash card nor the Top-Up card are contactless cards.",,,,,,,,
-santander_a,1. Maintaining the account,There are no monthly fees for maintaining these accounts.,0,0,,,,,,
-santander_a,1. Your cards,,,0,,,,,,
-santander_a,1.1 Your Top-Up card,You will be issued a cash card which will be sent separately from your Top-Up card. You can use this to withdraw money directly from your Basic Current Account if you need to.,1,0,,,,,,
-santander_a,1.2 Your Cash Card,"You will receive a Top-Up card which you can use to buy things or services in shops or online. It will be accepted in most places where you see the Visa or Mastercard sign. YouwillneedtotransfermoneyfromyourBasicCurrentAccounttoyourTop-UpaccountbeforeyoucanstartusingyourTop-Upcardin shops, online or to withdraw cash. You can use your Top-Up card in and outside the UK to make purchases or to withdraw cash. For purchases and withdrawals outside the UK, fees apply. Please see the General Terms and Conditions for Savings and Current Accounts for more information about international fees. IfthereisnotenoughmoneyontheTop-upcardtopayforwhatyouaretryingtobuy,we’llusuallyrefusethepaymentduetolackoffunds.",1,0,,,,,,
-santander_a,2. Monthly funding reqs,You are not required to pay money into your accounts with a set amount each month.,0,0,,,,,,
-santander_a,3. Interest rates,We do not pay interest on these accounts.,0,0,,,,,,
-santander_a,4. Overdraft,"Our overdraft services are not available on these accounts and you will not incur any overdraft charges. If you try to make a payment when you do not have enough money in your accounts, we will normally refuse the payment due to lack of funds. However there may be circumstances where you make a payment that we are unable to refuse which will take your account into an Unarranged Overdraft. A fee will not be charged for this.",0,0,,,,,,
-santander_a,5. Transactions,All transactions will be completed in pounds. Any transactions made outside of the UK will be treated as an international payment and may incur a foreign currency conversion fee.,0,0,,,,,,
-santander_a,6. Switching your account,,,0,,,,,,
+santander_a,1. Maintaining the account,There are no monthly fees for maintaining these accounts.,0,0,,1,0,1,"No.
+
+The heading ""Maintaining the account"" does not explicitly match the body text, which talks about there being no monthly fees. The two concepts seem unrelated, making it unclear why they are paired together.",1
+santander_a,1. Your cards,,,0,card,0,,,,
+santander_a,1.1 Your Top-Up card,You will be issued a cash card which will be sent separately from your Top-Up card. You can use this to withdraw money directly from your Basic Current Account if you need to.,1,0,card,0,0,1,"No
+
+The heading ""1.1 Your Top-Up card"" does not explicitly mention the topic of the cash card, which is introduced in the body text. The heading only refers to the ""Top-Up card"", whereas the body text talks about a separate cash card being issued. There is no clear connection or matching between the heading and the body text.",1
+santander_a,1.2 Your Cash Card,"You will receive a Top-Up card which you can use to buy things or services in shops or online. It will be accepted in most places where you see the Visa or Mastercard sign. YouwillneedtotransfermoneyfromyourBasicCurrentAccounttoyourTop-UpaccountbeforeyoucanstartusingyourTop-Upcardin shops, online or to withdraw cash. You can use your Top-Up card in and outside the UK to make purchases or to withdraw cash. For purchases and withdrawals outside the UK, fees apply. Please see the General Terms and Conditions for Savings and Current Accounts for more information about international fees. IfthereisnotenoughmoneyontheTop-upcardtopayforwhatyouaretryingtobuy,we’llusuallyrefusethepaymentduetolackoffunds.",1,0,"cash, card",0,0,1,"Yes.
+
+The heading ""1.2 Your Cash Card"" matches the body text because it explicitly mentions the topic of the body text, which is the Top-Up card, also referred to as the ""Cash Card"". The heading provides a clear indication of what the following text is about, making it easy for the reader to understand the context.",0
+santander_a,2. Monthly funding reqs,You are not required to pay money into your accounts with a set amount each month.,0,0,monthly,0,1,0,"Answer: No
+
+Justification: The header ""Monthly funding reqs"" suggests that the body text should discuss requirements or obligations related to monthly funding, such as minimum deposits or payments. However, the body text states that there is no requirement to pay money into accounts with a set amount each month, which does not match the expectation set by the header.",1
+santander_a,3. Interest rates,We do not pay interest on these accounts.,0,0,"interest, rate",0,0,0.5,"No
+
+The heading ""3. Interest rates"" implies that the following section will discuss interest rates, but the body text ""We do not pay interest on these accounts."" contradicts this expectation. The heading suggests that interest rates will be discussed, but instead, it states that no interest is paid.",1
+santander_a,4. Overdraft,"Our overdraft services are not available on these accounts and you will not incur any overdraft charges. If you try to make a payment when you do not have enough money in your accounts, we will normally refuse the payment due to lack of funds. However there may be circumstances where you make a payment that we are unable to refuse which will take your account into an Unarranged Overdraft. A fee will not be charged for this.",0,0,overdraft,0,0,1,"No
+
+The heading ""4. Overdraft"" does not explicitly match the content of the body text, which discusses the unavailability of overdraft services on certain accounts and the refusal of payments due to lack of funds. The term ""overdraft"" is used in the context of an Unarranged Overdraft, but it's not directly related to the traditional concept of an overdraft service.",1
+santander_a,5. Transactions,All transactions will be completed in pounds. Any transactions made outside of the UK will be treated as an international payment and may incur a foreign currency conversion fee.,0,0,transaction,0,0,1,"Yes.
+
+The heading ""5. Transactions"" matches the body text because it explicitly mentions that the following information relates to transactions, which is what the heading suggests. The body text then goes on to provide specific details about transactions, making the connection clear.",0
+santander_a,6. Switching your account,,,0,,1,,,,
 santander_a,Account alerts,"You will be automatically set up to receive an alert when:
 ¡ you’ve made a payment that has taken your balance below zero
 ¡ we have refused a payment due to lack of funds; or
@@ -567,36 +585,70 @@ We send these alerts as a text message so it’s important you have a mobile num
 You can also register for other account alerts to help you to stay on top of your finances. For example, alerts to advise you when your balance has fallen below a set limit, or you have had a deposit into your account greater than a set amount.
 For more information visit Account alerts at santander.co.uk/personal/support/understanding-our-services/account-alerts.
 Once your account has been set up, these alerts can be easily amended, or turned off, by logging onto Online Banking, visiting one of our
-branches or calling us on 0800 9 123 123.",0,1,,,,,,
+branches or calling us on 0800 9 123 123.",0,1,alert,0,0,1,"Answer: Yes
+
+Justification: The header ""Account alerts"" matches the body text because it discusses the types of alerts customers will receive, how they will receive them, and how they can manage these alerts. The body text provides details about the specific scenarios in which customers will receive alerts, how to update their contact information, and how to customize or turn off these alerts.",0
 santander_a,8. Account closure,"If you choose to close your Basic Current Account, this will automatically close your Top-up Debit Card Account as the two are linked. You are not able to have an operating Top-up Debit card if your Basic Current Account is closed. You have the right to cancel the account within 14 days of receiving your confirmation of account opening. This is known as the ‘cooling-off period’. You can close the account at any other time by sending a secure message through Online Banking, calling us on 0800 9 123 123 or by visiting one of our branches. Our rights to close your account are set out in the General Terms and Conditions for Current Accounts and Savings Accounts. If we decide
-to close one of your accounts, we will close both accounts by giving you at least 2 months’ notice. Condition 17.3 letter b) in the General Terms and Conditions does not apply to your Basic Current Account.",0,0,,,,,,
-santander_a,9. Changes to Specific Conditions,By signing the Agreement for the Basic Current account you declare that: You have been provided with documentation detailing the key features of the account and you would like to proceed with your application. All the Terms and Conditions have been made available to you and you agree to be bound by them. You have been provided with the Data Protection Statement. If you don’t understand any of the product details or terms for your account then please talk to us before you apply.,1,0,,,,,,
-santander_a,10. Declaration,We will communicate any changes to our Specific Conditions as set out in Condition 15.7 in Section 2A of the General Terms and Conditions for Current Accounts and Savings Accounts.,1,1,,,,,,
-santander_a,Other important information about your account,,,1,,,,,,
-santander_a,2.Money was transferred from your Basic Current Account onto your Top-Up card,"You can transfer money to your Top-Up card: by logging on to Santander Online or Mobile Banking; or ¡ by using Santander cash machines; or over the phone by calling us on 0800 9 123 123; or  in one of our branches. You can also use the same methods to transfer money back from your Top-Up card to your Basic Current Account. When you are transferring money between your accounts, please remember the value is in pounds.",0,0,,,,,,
-santander_a,3. Paying money in and out of your Basic Current Account,,,0,,,,,,
-santander_a,3.1 Paying money in,"You will only be able to set up Direct Debits, standing orders, make bill payments, payments in a foreign currency or faster payments from your Basic Current Account. In order to arrange these payments, you will need your account number and sort code from your Basic Current Account , which can be found on your cash card, online or on your Basic Current Account statement. For more information on any of these, including details on when payments clear, please refer to the General Terms and Conditions for Current Accounts and Savings Accounts, or ask a member of staff.",1,0,,,,,,
+to close one of your accounts, we will close both accounts by giving you at least 2 months’ notice. Condition 17.3 letter b) in the General Terms and Conditions does not apply to your Basic Current Account.",0,0,,1,0,0.5,"Yes.
+
+The heading ""8. Account closure"" matches the body text because it explicitly mentions closing an account, which is the main topic discussed in the body text. The body text explains the process and conditions of closing a Basic Current Account, including its link to the Top-up Debit Card Account and the cooling-off period.",0
+santander_a,9. Changes to Specific Conditions,By signing the Agreement for the Basic Current account you declare that: You have been provided with documentation detailing the key features of the account and you would like to proceed with your application. All the Terms and Conditions have been made available to you and you agree to be bound by them. You have been provided with the Data Protection Statement. If you don’t understand any of the product details or terms for your account then please talk to us before you apply.,1,0,"specific, condition",0,0,0.3333333333333333,"No.
+
+The heading ""9. Changes to Specific Conditions"" does not match the body text, which appears to be about the initial agreement process rather than changes to specific conditions.",1
+santander_a,10. Declaration,We will communicate any changes to our Specific Conditions as set out in Condition 15.7 in Section 2A of the General Terms and Conditions for Current Accounts and Savings Accounts.,1,1,,1,1,0,"Answer: No
+
+Justification: The header ""Declaration"" suggests that the following text would be a statement or affirmation made by the customer, but instead, the body text discusses how the bank will communicate changes to its conditions, which appears to be a notification or announcement rather than a declaration.",1
+santander_a,Other important information about your account,,,1,,1,,,,
+santander_a,2.Money was transferred from your Basic Current Account onto your Top-Up card,"You can transfer money to your Top-Up card: by logging on to Santander Online or Mobile Banking; or ¡ by using Santander cash machines; or over the phone by calling us on 0800 9 123 123; or  in one of our branches. You can also use the same methods to transfer money back from your Top-Up card to your Basic Current Account. When you are transferring money between your accounts, please remember the value is in pounds.",0,0,card,0,0,0.5714285714285714,"Yes.
+
+The heading ""2.Money was transferred from your Basic Current Account onto your Top-Up card"" matches the body text because it explicitly states that money was transferred from the Basic Current Account to the Top-Up card, which is mentioned in the first sentence of the body text (""You can transfer money to your Top-Up card...""). The heading provides context for what the body text will describe, making the connection between the two clear.",0
+santander_a,3. Paying money in and out of your Basic Current Account,,,0,"paying, money",0,,,,
+santander_a,3.1 Paying money in,"You will only be able to set up Direct Debits, standing orders, make bill payments, payments in a foreign currency or faster payments from your Basic Current Account. In order to arrange these payments, you will need your account number and sort code from your Basic Current Account , which can be found on your cash card, online or on your Basic Current Account statement. For more information on any of these, including details on when payments clear, please refer to the General Terms and Conditions for Current Accounts and Savings Accounts, or ask a member of staff.",1,0,"paying, money",0,1,0,"Answer: No
+
+Justification: The header ""Paying money in"" suggests that the body text should discuss ways to deposit or add funds into an account. However, the body text actually talks about setting up various types of payments (Direct Debits, standing orders, etc.) from the Basic Current Account, rather than paying money into the account.",1
 santander_a,Post Office being used,"You will also be able to pay in cash and cheques at the Post Office.
-¡ Cheques - If you pay a cheque in at a Post Office branch, it will go into your Basic Current account. You will need to pre-order an envelope and paying in slip for this. The money will take longer to appear on your account than if you pay the cheque in a Santander branch.Cash - you will need your Top-Up card to pay in cash at a Post Office branch. The money will be sent to your Top-Up card. If you want to pay money straight into your Basic Current Account you will need to use your cash card.",0,0,,,,,,
+¡ Cheques - If you pay a cheque in at a Post Office branch, it will go into your Basic Current account. You will need to pre-order an envelope and paying in slip for this. The money will take longer to appear on your account than if you pay the cheque in a Santander branch.Cash - you will need your Top-Up card to pay in cash at a Post Office branch. The money will be sent to your Top-Up card. If you want to pay money straight into your Basic Current Account you will need to use your cash card.",0,0,"post, office",0,0,0.6666666666666666,"No
+
+The heading ""Post Office being used"" does not explicitly mention payment methods (cheques or cash), which are discussed in the body text. The heading only mentions the location where these actions can be taken, but not what specific actions can be taken there.",1
 santander_a,3.2 Paying money out,"You can receive regular payments, such as your salary, into your Basic Current Account.
-You can pay in cash and cheques at any Santander cash machines or Santander branches in the UK using your Top-up card. You must choose if you want the money to go into your Basic Current Account or straight onto your Top-up card.",1,0,,,,,,
-santander_a,3.3 Cash withdrawals,"You can withdraw cash at Santander cash machines or Santander branches using your Top-up card. You will be able to choose if you want to withdraw cash from your Basic Current Account or straight from your Top-up card. If you withdraw cash at a Post Office, the cash will be withdrawn from the money you have available on your Top-up card.",0,0,,,,,,
-santander_a,4. Transactions not allowed with your Top-Up card,"To stop your account from going into an Unarranged Overdraft, some transactions are not allowed. You won’t be able to use your Top-Up card for the following: Recurring and instalment transactions (e.g. magazine subscriptions). These are a series of payments made using your card number. If you have switched your account to us, we won’t be able to move any existing recurring payments so you should make alternative arrangements. Automated/pay at pump petrol stations; but you will be able to pay over the counter at petrol stations. Car hire. Parking or vending machines. You can’t set-up Direct Debits, standing orders or make transfers from your Top-Up card (apart from transfers to your Basic Current Account).You will need to use your Basic Current Account details to set these up (see section 3.2 above for more information on how to set these up). Please note, you may be unable to use your Top-Up card if a large authorisation is placed on it. For example a hotel may do this to cover the cost of the stay including any bar expenses etc. The authorisation is only removed when you pay the final bill.",0,0,,,,,,
-santander_a,5. Keeping track of your accounts,,,0,,,,,,
-santander_a,Statements,"We recommend that you check your statement carefully, and let us know as soon as possible if there are any mistakes or any unauthorised transactions by calling us on 0800 9 123 123. For further information and how we provide you with information on transactions on your account please refer to the General Terms and Conditions for Current Accounts and Savings Accounts.",0,0,,,,,,
-santander_a,Going paper-free,"You’ll receive your documents and statements by post unless you chose paper-free when you applied for your product, or have switched to paper free since opening your account. If you’ve chosen paper-free, your statements for this product, as well as some of your letters, will be sent monthly to your ‘Document Store’ in Online Banking. You’ll receive an email when a document is ready to view. You can change your preferences on how to receive documents from us within Online Banking at any time.",0,1,,,,,,
-santander_a,6. Managing your account and your Top-Up card,"Visit santander.co.uk/register, ask in branch or call us on 0800 9 123 123 to register for Online Banking. For more information on Mobile Banking, visit santander.co.uk/mobile banking  If you want to speak to us, call us on 0800 9 123 123. If you’re dialling internationally, call 00 44 1908 237 963. If you have difficulties with your hearing or speech, and if you have a textphone, please use the Text Relay service by calling us on 18001 0800 9 123 123. You can also complete balance enquiries, cheque deposits, cash deposits and cash withdrawals via any Post Office branch. Opening hours, services and transaction limits may vary. For more information about these services, visit santander.co.uk",1,0,,,,,,
+You can pay in cash and cheques at any Santander cash machines or Santander branches in the UK using your Top-up card. You must choose if you want the money to go into your Basic Current Account or straight onto your Top-up card.",1,0,"paying, money",0,0,0.5,"No
+
+The heading ""Paying money out"" does not match the body text, which primarily discusses receiving payments (salary) and paying in cash and cheques, rather than paying money out. The phrase ""paying money out"" implies outgoing transactions, whereas the body text focuses on incoming transactions and depositing funds.",1
+santander_a,3.3 Cash withdrawals,"You can withdraw cash at Santander cash machines or Santander branches using your Top-up card. You will be able to choose if you want to withdraw cash from your Basic Current Account or straight from your Top-up card. If you withdraw cash at a Post Office, the cash will be withdrawn from the money you have available on your Top-up card.",0,0,cash,0,0,0.5,"Answer: Yes
+
+Justification: The header asks about ""Cash withdrawals"", and the body text explains how to do so using specific methods (Santander cash machines, branches, or Post Offices). The body text provides information that answers the question posed by the header.",0
+santander_a,4. Transactions not allowed with your Top-Up card,"To stop your account from going into an Unarranged Overdraft, some transactions are not allowed. You won’t be able to use your Top-Up card for the following: Recurring and instalment transactions (e.g. magazine subscriptions). These are a series of payments made using your card number. If you have switched your account to us, we won’t be able to move any existing recurring payments so you should make alternative arrangements. Automated/pay at pump petrol stations; but you will be able to pay over the counter at petrol stations. Car hire. Parking or vending machines. You can’t set-up Direct Debits, standing orders or make transfers from your Top-Up card (apart from transfers to your Basic Current Account).You will need to use your Basic Current Account details to set these up (see section 3.2 above for more information on how to set these up). Please note, you may be unable to use your Top-Up card if a large authorisation is placed on it. For example a hotel may do this to cover the cost of the stay including any bar expenses etc. The authorisation is only removed when you pay the final bill.",0,0,"transaction, card",0,0,1,"Answer: Yes
+
+Justification: The header asks about ""transactions not allowed"" with the Top-Up card, and the body text lists specific types of transactions that are not permitted, such as recurring and instalment transactions, automated/pay at pump petrol stations, car hire, parking or vending machines, setting up Direct Debits, standing orders, or making transfers from the Top-Up card. The body text provides a clear explanation of what transactions are not allowed with the Top-Up card, matching the inquiry posed by the header.",0
+santander_a,5. Keeping track of your accounts,,,0,track,0,,,,
+santander_a,Statements,"We recommend that you check your statement carefully, and let us know as soon as possible if there are any mistakes or any unauthorised transactions by calling us on 0800 9 123 123. For further information and how we provide you with information on transactions on your account please refer to the General Terms and Conditions for Current Accounts and Savings Accounts.",0,0,statement,0,0,1,"Yes.
+
+The heading ""Statements"" matches the body text because it directly relates to the content being discussed, which is checking statements for errors or unauthorized transactions. The heading provides a clear indication of what the reader can expect to learn from the following paragraph.",0
+santander_a,Going paper-free,"You’ll receive your documents and statements by post unless you chose paper-free when you applied for your product, or have switched to paper free since opening your account. If you’ve chosen paper-free, your statements for this product, as well as some of your letters, will be sent monthly to your ‘Document Store’ in Online Banking. You’ll receive an email when a document is ready to view. You can change your preferences on how to receive documents from us within Online Banking at any time.",0,1,,1,1,0,"Answer: No
+
+Justification: The header ""Going paper-free"" suggests that the following text would discuss the benefits or process of switching to digital documents, but instead, the body text explains how customers receive physical documents and statements, including an option to switch to paper-free. The focus is on receiving documents, not going paper-free itself.",1
+santander_a,6. Managing your account and your Top-Up card,"Visit santander.co.uk/register, ask in branch or call us on 0800 9 123 123 to register for Online Banking. For more information on Mobile Banking, visit santander.co.uk/mobile banking  If you want to speak to us, call us on 0800 9 123 123. If you’re dialling internationally, call 00 44 1908 237 963. If you have difficulties with your hearing or speech, and if you have a textphone, please use the Text Relay service by calling us on 18001 0800 9 123 123. You can also complete balance enquiries, cheque deposits, cash deposits and cash withdrawals via any Post Office branch. Opening hours, services and transaction limits may vary. For more information about these services, visit santander.co.uk",1,0,card,0,1,0,"Answer: No
+
+Justification: The header mentions ""Managing your account and your Top-Up card"", but the body text does not discuss managing accounts or Top-Up cards at all. Instead, it provides information on registering for online banking, mobile banking, contacting the bank, and using Post Office branches for certain transactions. The topics do not match, so the header does not accurately reflect the content of the body text.",1
 santander_a,6.1 Switching to a Santander Basic Current Account,"If you ask us to, we will switch your current account from another bank or building society to us. Your switch
 will be covered by the Current Account Switch Service (CASS) Guarantee as long as your existing bank or
 building society is also a participant of CASS. You can find more information about this on the ‘Switching
 your account to us’ information sheet and in General Terms and Conditions for Current Accounts and
 Savings Accounts. The processing of your switch starts 6 working days before your chosen completion date. Your old current account will automatically close on your completion date. After the completion date we will automatically forward and redirect any payments made to or attempted to be taken from your old current account to your new current account at Santander for a period of 3 years, or longer in accordance with the Current Account Switch Agreement. It is important to note that once started, the switch can’t be stopped and your old account will close. If you need to discuss the progress of your switch to Santander please contact us on 0800 085 2202. Lines are open Monday – Friday 8am to 7pm and 9am to 2pm Saturdays.
 If you have to pay any Unarranged Overdraft Usage Fees on your old account due to our error during the switching process, we will refund them in full.
-If you have any regular payment mandates (i.e. magazine subscriptions) set up on your old debit card, these payments will not be accepted on your Top-Up card. You will need to make other arrangements for such regular payment mandates.",0,0,,,,,,
-santander_a,6.2 Switching your Santander Basic Current Account to another provider,"If you decide to switch your Basic Current Account away from Santander, the money left on your Top-Up card will be automatically transferred into your Basic Current Account and it will be closed. Your Basic Current Account will then be switched to your new provider.",0,0,,,,,,
+If you have any regular payment mandates (i.e. magazine subscriptions) set up on your old debit card, these payments will not be accepted on your Top-Up card. You will need to make other arrangements for such regular payment mandates.",0,0,,1,0,0.8,"Answer: Yes
+
+Justification: The header ""6.1 Switching to a Santander Basic Current Account"" matches the body text because it discusses the process of switching a current account to Santander, including details about the Current Account Switch Service, automatic closure of the old account, and redirection of payments. The body text provides information related to switching to a Santander Basic Current Account, making it a relevant match for the header.",0
+santander_a,6.2 Switching your Santander Basic Current Account to another provider,"If you decide to switch your Basic Current Account away from Santander, the money left on your Top-Up card will be automatically transferred into your Basic Current Account and it will be closed. Your Basic Current Account will then be switched to your new provider.",0,0,,1,0,0.7142857142857143,"Yes.
+
+The heading ""Switching your Santander Basic Current Account to another provider"" matches the body text because it explicitly mentions switching the account to another provider, which is also mentioned in the body text as the action being taken. The connection between the heading and body is implicit, but still present.",0
 santander_a,7. Account Alerts,"In addition to the account alerts for which you’ll be auto-registered, you can set up different types of free email and text ‘Account Alerts’. You can set up alerts on both your Basic Current Account and Top-up Debit Card Account. This is a simple way to stay in control of both accounts. For more information visit santander.co.uk/alerts
-For more information about ways to manage your account, pick up a leaflet in branch or visit santander.co.uk",0,1,,,,,,
-santander_a,Financial difficulties,"If you would like more information about managing your finances please speak to us in one of our branches or give us a call, you can also find more information online in the help and support area of our website.",0,0,,,,,,
+For more information about ways to manage your account, pick up a leaflet in branch or visit santander.co.uk",0,1,alert,0,0,1,"Yes.
+
+The heading ""7. Account Alerts"" matches the body text because it explicitly mentions ""Account Alerts"", which is also mentioned in the body text as something that can be set up. The connection between the heading and body is implicit, but still present.",0
+santander_a,Financial difficulties,"If you would like more information about managing your finances please speak to us in one of our branches or give us a call, you can also find more information online in the help and support area of our website.",0,0,,1,1,0,"Answer: No
+
+Justification: The header ""Financial difficulties"" suggests that the following text will discuss ways to overcome financial difficulties or provide guidance on how to manage them. However, the body text instead focuses on providing resources for customers who want to learn more about managing their finances, but does not address actual financial difficulties.",1
 santander_f,Financial Services Compensation Scheme (FSCS) Information Sheet,,,,,,,,,
 santander_f,Basic information about the protection of your eligible deposits,"Eligible deposits in Santander UK plc are protected by:
 the Financial Services Compensation Scheme (‘FSCS’)1
@@ -621,25 +673,25 @@ Financial Services Compensation Scheme 10th Floor, Beaufort House,
 15 St Botolph Street, London EC3A 7QU
 Tel: 0800 678 1100 or 020 7741 4100 Email: ICT@fscs.org.uk
 More information:
-http://www.fscs.org.uk",,,,,,,,
-santander_f,Additional information,,,,,,,,,
-santander_f,Scheme responsible for the protection of your eligible deposit,"Your eligible deposit is covered by a statutory Deposit Guarantee Scheme. If insolvency of your bank, building society or credit union should occur, your eligible deposits would be repaid up to £85,000 by the Deposit Guarantee Scheme.",,,,,,,,
+http://www.fscs.org.uk",,,"protection, eligible, deposit",0,,,,
+santander_f,Additional information,,,,,1,,,,
+santander_f,Scheme responsible for the protection of your eligible deposit,"Your eligible deposit is covered by a statutory Deposit Guarantee Scheme. If insolvency of your bank, building society or credit union should occur, your eligible deposits would be repaid up to £85,000 by the Deposit Guarantee Scheme.",,,"responsible, protection, eligible, deposit",0,,,,
 santander_f,General limit of protection,"If a covered deposit is unavailable because a bank, building society or credit union is unable to meet its financial obligations, depositors are repaid by a Deposit Guarantee Scheme. This repayment covers at maximum £85,000 per bank, building society or credit union. This means that all eligible deposits at the same bank, building society or credit union are added up in order to determine the coverage level. If, for instance a depositor holds a savings account with £80,000 and a current account with £20,000, he or she will only be repaid £85,000.
 This method will also be applied if a bank, building society or credit union operates under different trading names. Santander UK plc also trades under cahoot, Santander Corporate & Commercial, and Santander Corporate & Investment Banking trading names.
 In some cases eligible deposits which are categorised as ‘temporary high balances’ are protected above £85,000 for six months after the amount has been credited or from the moment when such eligible deposits become legally transferable. These are eligible deposits connected with certain events including:
 (a) certain transactions relating to the depositor’s current or prospective only or main residence or dwelling;
 (b) a death, or the depositor’s marriage or civil partnership, divorce, retirement, dismissal, redundancy or invalidity;
 (c) the payment to the depositor of insurance benefits or compensation for criminal injuries or wrongful conviction.
-More information can be obtained under http://www.fscs.org.uk",,,,,,,,
+More information can be obtained under http://www.fscs.org.uk",,,"limit, protection",0,,,,
 santander_f,Limit of protection for joint accounts,"In case of joint accounts, the limit of £85,000 applies to each depositor.
-However, eligible deposits in an account to which two or more persons are entitled as members of a business partnership, association or grouping of a similar nature, without legal personality, are aggregated and treated as if made by a single depositor for the purpose of calculating the limit of £85,000.",,,,,,,,
+However, eligible deposits in an account to which two or more persons are entitled as members of a business partnership, association or grouping of a similar nature, without legal personality, are aggregated and treated as if made by a single depositor for the purpose of calculating the limit of £85,000.",,,"limit, protection, joint, account",0,,,,
 santander_f,Reimbursement,"The responsible Deposit Guarantee Scheme is the Financial Services Compensation Scheme, 10th Floor Beaufort House, 15 St Botolph Street, London, EC3A 7QU, Tel: 0800 678 1100 or 020 7741 4100, Email: ICT@fscs.org.uk. It will repay your eligible deposits (up to £85,000) within 20 working days until 31 December 2018; within 15 working days from 1 January 2019 until 31 December 2020; within 10 working days from 1 January 2021 to 31 December 2023; and within 7 working days from 1 January 2024 onwards, save where specific exceptions apply.
 Where the FSCS cannot make the repayable amount available within 7 working days, it will, from 1 June 2016 until 31 December 2023, ensure that you have access to an appropriate amount of your covered deposits to cover the cost of living (in the case of a depositor which is an individual) or to cover necessary business expenses or operating costs (in the case of a depositor which is
 not an individual or a large company) within 5 working days of
 a request.
-If you have not been repaid within these deadlines, you should contact the Deposit Guarantee Scheme since the time to claim reimbursement may be barred after a certain time limit. Further information can be obtained under http://www.fscs.org.uk.",,,,,,,,
+If you have not been repaid within these deadlines, you should contact the Deposit Guarantee Scheme since the time to claim reimbursement may be barred after a certain time limit. Further information can be obtained under http://www.fscs.org.uk.",,,reimbursement,0,,,,
 santander_f,Other important information,"In general, all retail depositors and businesses are covered by Deposit Guarantee Schemes. Exceptions for certain deposits
-are stated on the website of the responsible Deposit Guarantee Scheme. Your bank, building society or credit union will also inform you of any exclusions from protection which may apply. If deposits are eligible, the bank, building society or credit union shall also confirm this on the statement of account.",,,,,,,,
+are stated on the website of the responsible Deposit Guarantee Scheme. Your bank, building society or credit union will also inform you of any exclusions from protection which may apply. If deposits are eligible, the bank, building society or credit union shall also confirm this on the statement of account.",,,,1,,,,
 santander_f,FSCS EXCLUSIONS LIST,"A deposit is excluded from protection if:
 (1) The holder and any beneficial owner of the deposit have never been identified in accordance with money laundering requirements. For further information, contact your bank, building society or credit union.
 (2) The deposit arises out of transactions in connection with which there has been a criminal conviction for money laundering.
@@ -653,17 +705,21 @@ on 2 July 2014).
 (7) It is a deposit of an overseas financial services institution which qualifies as a small company.4
 (8) It is a deposit of certain regulated firms (investment firms, insurance undertakings and reinsurance undertakings) which qualify as a small business or a small company5 – refer to the FSCS for further information on this category.
 (9) It is not held by an establishment of a bank, building society or credit union in the UK or, in the case of a bank or building society incorporated in the UK, it is not held by an establishment in Gibraltar.
-For further information about exclusions, refer to the FSCS website at www.FSCS.org.uk",,,,,,,,
+For further information about exclusions, refer to the FSCS website at www.FSCS.org.uk",,,exclusion,0,,,,
 hsbc_c,"We’re making changes
 to our terms",,,,,,,,,
 hsbc_c,,"This is to let you know about some changes we’re making
 to the terms for our personal current and savings accounts
 (including Cash ISAs).",,,,,,,,
-hsbc_c,What’s changing,"Your Individual Savings Account (ISA) terms and conditions will look a little different as we’re taking the opportunity to make our terms simpler and easier to read. Following Brexit, some EU rules no longer apply to us. We’re making some changes to our terms to update references and terminology that no longer apply. We’re making some other changes to our terms, including our charges. We explain more about these below.",0,1,,,,,,
+hsbc_c,What’s changing,"Your Individual Savings Account (ISA) terms and conditions will look a little different as we’re taking the opportunity to make our terms simpler and easier to read. Following Brexit, some EU rules no longer apply to us. We’re making some changes to our terms to update references and terminology that no longer apply. We’re making some other changes to our terms, including our charges. We explain more about these below.",0,1,changing,0,1,0,"Answer: No
+
+Justification: The header ""What's changing"" suggests that the following section will discuss specific changes being made, whereas the body text focuses on the reasons behind the changes (simplifying terms, updating references, and terminology) rather than listing what exactly is changing.",1
 hsbc_c,Premier Family Savings Account,"From 23 November 2021, we’ll no longer provide our Premier Family Savings Account.
 If you’re an existing customer, we’ll transfer your account to a Flexible Saver Account.
 We’ll tell you before we do this. For Premier MySavings customers, when you turn 18,
-we’ll convert your account to a Flexible Saver Account.",0,0,,,,,,
+we’ll convert your account to a Flexible Saver Account.",0,0,"premier, saving, account",0,0,1,"No.
+
+The heading ""Premier Family Savings Account"" does not match the body text, which appears to be announcing the discontinuation of that account type and its replacement or conversion into other accounts (Flexible Saver Account). The heading suggests that the content will be about the features and benefits of the Premier Family Savings Account, but instead it's discussing its end-of-life.",1
 hsbc_c,What do you need to do?,"If you’re happy with the changes you don’t need to do anything, they’ll happen automatically.
 If you don’t accept them, you have the option to close any accounts covered by these terms
 with no charge (excluding our Fixed Rate Saver and Regular Saver Account). If you want to
@@ -671,17 +727,29 @@ do this, please contact us before 23 November 2021.
 If you close your Cash ISA and withdraw your money without transferring it to another
 ISA provider you will lose the tax benefit of your account. Also, if you have already made
 a subscription this tax year you will be unable to subscribe to another cash ISA until the
-next tax year.",0,1,,,,,,
-hsbc_c,Changes for specific accounts,,,1,,,,,,
-hsbc_c,HSBC Jade Account,"We’re changing our rules on who can apply for an HSBC Jade Account. Right now, to qualify for an HSBC Jade Account, you must have an existing HSBC Premier Bank Account and pay your annual income into that account. You must also have either: • savings and/or investments of £500,000 or more with HSBC in the UK; or • a relationship with HSBC Private Bank in the UK. We’re increasing the total savings and/or investments required from £500,000 to £1,000,000. We’re also removing the requirement to hold an existing HSBC Premier Bank Account. Existing customers with any HSBC bank account, or new to bank customers, can now apply. You’ll still have to pay your annual income into your HSBC Jade Account.",0,0,,,,,,
+next tax year.",0,1,,1,0,1,"No.
+
+The heading ""What do you need to do?"" implies that the following text would provide instructions or actions for the reader to take. However, the body text does not provide clear instructions or actions, but rather explains what will happen if certain conditions are met. The text is more informative than prescriptive, which makes the heading mismatched with the content.",1
+hsbc_c,Changes for specific accounts,,,1,account,0,,,,
+hsbc_c,HSBC Jade Account,"We’re changing our rules on who can apply for an HSBC Jade Account. Right now, to qualify for an HSBC Jade Account, you must have an existing HSBC Premier Bank Account and pay your annual income into that account. You must also have either: • savings and/or investments of £500,000 or more with HSBC in the UK; or • a relationship with HSBC Private Bank in the UK. We’re increasing the total savings and/or investments required from £500,000 to £1,000,000. We’re also removing the requirement to hold an existing HSBC Premier Bank Account. Existing customers with any HSBC bank account, or new to bank customers, can now apply. You’ll still have to pay your annual income into your HSBC Jade Account.",0,0,"jade, account",0,0,1,"Yes.
+
+The heading ""HSBC Jade Account"" matches the body text because it explicitly mentions the name of the account being discussed, which is the main topic of the paragraph.",0
 hsbc_c,"HSBC Advance Bank
-Account","For an HSBC Advance Bank Account, we’re removing the requirements to pay either: • £1,750 or more into your account each month; or • at least £10,500 every six months.",0,0,,,,,,
+Account","For an HSBC Advance Bank Account, we’re removing the requirements to pay either: • £1,750 or more into your account each month; or • at least £10,500 every six months.",0,0,account,0,0,1,"No.
+
+The heading ""HSBC Advance Bank Account"" does not explicitly match the body text, which only mentions ""HSBC Advance Bank"", without specifying it's an account. The word ""Account"" in the heading seems out of place compared to the rest of the sentence.",1
 hsbc_c,Student Account,"We’re changing our rules on who can apply for a Student Account. In
-future, to apply, you’ll need to have accepted an unconditional offer to study.",0,0,,,,,,
-hsbc_c,Graduate Bank Account,"We’re increasing the interest free amounts on your account – those are the amounts within your overdraft that you don’t pay interest on. So in future, in Year 1, you won’t pay any interest on the first £3,000 of any arranged overdraft. In Year 2, you won’t pay any interest on the first £2,000.",0,0,,,,,,
+future, to apply, you’ll need to have accepted an unconditional offer to study.",0,0,account,0,0,1,"Yes.
+
+The heading ""Student Account"" matches the body text because it explicitly mentions the type of account being referred to, which is consistent with the topic discussed in the body text (""who can apply for a Student Account"").",0
+hsbc_c,Graduate Bank Account,"We’re increasing the interest free amounts on your account – those are the amounts within your overdraft that you don’t pay interest on. So in future, in Year 1, you won’t pay any interest on the first £3,000 of any arranged overdraft. In Year 2, you won’t pay any interest on the first £2,000.",0,0,account,0,0,0.3333333333333333,"No
+
+The heading ""Graduate Bank Account"" does not explicitly relate to the content of the body text, which appears to be discussing changes to the interest-free amounts on an overdraft, rather than specifically about a graduate bank account.",1
 hsbc_c,"HSBC Currency
 Account","You can now pay cash into your HSBC Currency Account but there may be
-limits on the amount you’re able to deposit each day.",0,0,,,,,,
+limits on the amount you’re able to deposit each day.",0,0,"currency, account",0,0,1,"No.
+
+The heading ""HSBC Currency"" does not seem to match the body text, which talks about paying cash into an account, without specifying what type of account it is (e.g., savings, checking, etc.). The word ""Currency"" in the heading implies a specific type of account or product, whereas the body text only mentions a generic ""account"".",1
 hsbc_c,"MyMoney Account
 (Premier MyAccount,
 MyAccount, Premier
@@ -689,37 +757,55 @@ MySavings and
 MySavings)","When you open any of these accounts, you and the parent/guardian linked
 to the account must sign a third-party document called an ‘Authorised Adult
 Mandate’ giving your parent/legal guardian certain rights. They can do
-things like update your address on your behalf.",0,0,,,,,,
+things like update your address on your behalf.",0,0,"account, premier, premier",0,0,0.2,"No.
+
+The heading ""MyMoney Account"" does not explicitly match the body text, which talks about opening specific types of accounts (Premier MyAccount, MyAccount, Premier MySavings, and MySavings). The heading seems to refer to a general category of accounts, while the body text refers to specific sub-accounts within that category.",1
 hsbc_c,Fixed Rate Saver,"We’re introducing a cooling-off period for reinvesting in a Fixed Rate Saver.
 You’ll now have 14 days from the date you receive confirmation of your
 reinvestment to withdraw your money and close the account without any
-charges.",0,0,,,,,,
+charges.",0,0,"fixed, rate, saver",0,0,1,"No
+
+The heading ""Fixed Rate Saver"" does not explicitly relate to the content of the body, which appears to be discussing a change to the reinvestment process rather than the fixed rate itself.",1
 hsbc_c,Online Bonus Saver,"We’ve made some changes to the rules that apply to Online Bonus Saver.
 There’s no maximum savings limit but you can only have one Online Bonus
 Saver at any time in your sole name. You’ll also need to have an HSBC UK
-current or savings account (that isn’t an ISA or Basic Bank Account).",0,0,,,,,,
-hsbc_c,"Changes for current accounts, savings accounts and ISAs",,,0,,,,,,
+current or savings account (that isn’t an ISA or Basic Bank Account).",0,0,"online, bonus, saver",0,0,1,"No.
+
+The heading ""Online Bonus Saver"" does not explicitly match the content of the body text, which discusses the rules and requirements for the product. The heading suggests that the following text will provide information about the features and benefits of the Online Bonus Saver, whereas the actual text explains the terms and conditions of the product.",1
+hsbc_c,"Changes for current accounts, savings accounts and ISAs",,,0,"current, account, saving, account, isas",0,,,,
 hsbc_c,"Reporting a lost or
 stolen card from
 outside the UK","If you’re outside the UK and want to contact us to report your card as lost
 or stolen, then you can do this free of charge through Mobile or Online
 Banking. If you are calling us from outside the UK, then call charges
 will apply.
-We’re including that in our terms so you’re aware of this.",0,0,,,,,,
+We’re including that in our terms so you’re aware of this.",0,0,card,0,0,0.8333333333333334,"Yes.
+
+The heading ""Reporting a lost or stolen card from outside the UK"" matches the body text because it explicitly mentions reporting a lost or stolen card from outside the UK, which is also the main topic discussed in the body text.",0
 hsbc_c,"Paying cash into
-your bank account","There are limits on the amount of cash you can pay into your bank account each day. We’ll tell you what these are when you’re depositing cash. You can also check our website or ask us at any time. If you’re depositing cash in a foreign currency and your account is in a different currency, we’ll only convert the money up to the daily cash deposit limit.",0,0,,,,,,
+your bank account","There are limits on the amount of cash you can pay into your bank account each day. We’ll tell you what these are when you’re depositing cash. You can also check our website or ask us at any time. If you’re depositing cash in a foreign currency and your account is in a different currency, we’ll only convert the money up to the daily cash deposit limit.",0,0,"cash, account",0,0,0.75,"No.
+
+The heading ""Paying cash into your bank account"" does not explicitly match the content of the body text, which discusses specific limitations and conversions related to cash deposits, rather than simply paying cash into the account. The heading seems too general and doesn't accurately convey the focus of the body text.",1
 hsbc_c,"Internal and external
-payments",We’re updating our terms to match our processes on how we send payments. The way we send payments depends on how much you’re sending and to who (whether you’re making an internal or external payment). We’ll tell you about any limits that apply when you ask us to make the payment. We usually use CHAPS for payments over our limits and Faster Payments for everything else. Our charges for payments made by CHAPS and Faster Payments are set out in our terms. External payments are payments made to an account outside the HSBC Group. Internal payments are payments you make from your account to another account within the HSBC Group in: • your name (internal payments to yourself); • in someone else’s name (internal payments to someone else). We won’t charge you for internal payments if they’re within our limits,0,0,,,,,,
+payments",We’re updating our terms to match our processes on how we send payments. The way we send payments depends on how much you’re sending and to who (whether you’re making an internal or external payment). We’ll tell you about any limits that apply when you ask us to make the payment. We usually use CHAPS for payments over our limits and Faster Payments for everything else. Our charges for payments made by CHAPS and Faster Payments are set out in our terms. External payments are payments made to an account outside the HSBC Group. Internal payments are payments you make from your account to another account within the HSBC Group in: • your name (internal payments to yourself); • in someone else’s name (internal payments to someone else). We won’t charge you for internal payments if they’re within our limits,0,0,"internal, external, payment",0,0,1,"Answer: Yes
+
+Justification: The header ""Internal and external payments"" matches the body text because it discusses the different types of payments mentioned in the header, including internal payments (to oneself or others within the HSBC Group) and external payments (to accounts outside the group). The body text explains the process and details of these payments, providing an answer to the question posed by the header.",0
 hsbc_c,The reasons why we might close your account without notice,"We’re explaining some of the reasons why we might close your account
 without notice. That includes where you behave inappropriately when using
 our services. For example, where you use abusive language in payment
-instructions.",0,0,,,,,,
+instructions.",0,0,"close, account",0,0,1,"No
+
+The heading mentions ""the reasons why we might close your account without notice"", but the body only explains ""some"" of those reasons, not all of them. The heading implies a comprehensive list, while the body provides specific examples that do not exhaustively cover all possible reasons.",1
 hsbc_c,"Charges for making
 payments outside
-the UK","Following Brexit, the rules on charging for payments outside the UK have changed. How charges are applied, either by us or the bank receiving the money, will depend on how and where you’re sending the money as well the payment’s currency. We’re updating our agreement to include these changes.",0,0,,,,,,
-hsbc_c,Changes for current accounts,,,1,,,,,,
+the UK","Following Brexit, the rules on charging for payments outside the UK have changed. How charges are applied, either by us or the bank receiving the money, will depend on how and where you’re sending the money as well the payment’s currency. We’re updating our agreement to include these changes.",0,0,"charge, payment",0,0,0.8,"Yes.
+
+The heading ""Charges for making payments outside the UK"" matches the body text because it explicitly mentions the topic of the section, which is about the changes in rules regarding charges for international payments after Brexit. The heading accurately summarizes the main idea of the body text.",0
+hsbc_c,Changes for current accounts,,,1,"current, account",0,,,,
 hsbc_c,"Making changes to
-your joint account","Right now, all account holders need to agree to change the joint account holders on an account (by taking off or adding another person). All of them also need to agree to allow someone else to operate the account. We won’t require everyone to agree in future where a joint account holder is the victim of financial abuse. Instead, we may allow a request from them to be removed from a joint account without requiring other account holders to agree to this.",0,0,,,,,,
+your joint account","Right now, all account holders need to agree to change the joint account holders on an account (by taking off or adding another person). All of them also need to agree to allow someone else to operate the account. We won’t require everyone to agree in future where a joint account holder is the victim of financial abuse. Instead, we may allow a request from them to be removed from a joint account without requiring other account holders to agree to this.",0,0,"joint, account",0,0,0.75,"Yes.
+
+The heading ""Making changes to your joint account"" matches the body text because it explicitly mentions making changes to a joint account, which is the main topic discussed in the body text. The heading accurately summarizes the content that follows.",0
 hsbc_c,"The rates that apply
 when you send
 money in a foreign
@@ -731,7 +817,9 @@ date you ask us to make the payment (even if we process the payment on
 a different day). For a future dated payment or a recurring payment, we’ll
 use the rate that applies on the date the payment is made. You can get an
 indicative rate before we start processing the payment by logging onto
-Mobile or Online Banking, calling us or visiting us in branch.",0,0,,,,,,
+Mobile or Online Banking, calling us or visiting us in branch.",0,0,"rate, apply, send, money, foreign, currency",0,0,1,"Answer: Yes
+
+Justification: The header ""The rates that apply when you send money in a foreign currency"" asks about the exchange rates used when sending money in a foreign currency. The body text explains how HSBC determines the exchange rate and when it's applied, providing information related to the header's topic.",0
 hsbc_c,"Overdraft text alerts
 to your international
 mobile number","If you’ve given us an international mobile number, we can now send you
@@ -741,12 +829,16 @@ you go into your arranged or unarranged overdraft (including any interest
 free amount on your account); or
 •
 there isn’t enough money in your current account to make payments
-you’ve asked us to make that day.",0,0,,,,,,
+you’ve asked us to make that day.",0,0,"overdraft, international, mobile, number",0,0,1,"Yes.
+
+The heading ""Overdraft text alerts"" matches the body text because it explicitly mentions the topic of overdraft text alerts, which is also the main subject of the body text. The body text explains what these alerts are and when they will be sent, making the connection between the heading and body clear.",0
 hsbc_c,Changes to our charges,"We’re introducing a charge of £5 if you request a duplicate paper statement on any of
 our current accounts or savings accounts. You can always get this information for free using
 Mobile or Online Banking.
 We’re also making changes to some of our other charges. We’ve set out the old charge and
-the new charge in the table below.",0,0,,,,,,
+the new charge in the table below.",0,0,charge,0,0,1,"Yes.
+
+The heading ""Changes to our charges"" matches the body text because it explicitly mentions that there are changes being made to the bank's charges, which is then elaborated upon in the body text. The heading provides a clear indication of what the reader can expect to learn from the following text.",0
 lloyds_c,Club Lloyds Account,,,,,,,,,
 lloyds_c,,Welcome to Club Lloyds,,,,,,,,
 lloyds_c,,"As a Club Lloyds customer
@@ -759,10 +851,16 @@ best works for you.
 And, as your life changes,
 we'll be by your side to offer
 support whenever you need us.",,,,,,,,
-lloyds_c,When you need help,"Diarrhoea and vomiting are common in adults, children and babies. They're often caused by a stomach bug and should stop in a few days.",1,1,,,,,,
-lloyds_c,When you need support,,,1,,,,,,
-lloyds_c,Keeping track of your spending,The advice is the same if you have diarrhoea and vomiting together or separately.,1,0,,,,,,
-lloyds_c,Money worries,"stay at home and get plenty of rest, drink lots of fluids, such as water or squash – take small sips if you feel sick, carry on breast or bottle feeding your baby – if they're being sick, try giving small feeds more often than usual, give babies on formula or solid foods small sips of water between feeds, eat when you feel able to – it may help to avoid foods that are fatty or spicy, take paracetamol if you're in discomfort – check the leaflet before giving it to your child",1,0,,,,,,
+lloyds_c,When you need help,"Diarrhoea and vomiting are common in adults, children and babies. They're often caused by a stomach bug and should stop in a few days.",1,1,,1,1,0,"Answer: No
+
+Justification: The header ""When you need help"" suggests that the following text will be about situations where customers may require assistance or support from the bank. However, the body text appears to be discussing symptoms of illness and their causes, which seems unrelated to the context of needing help from the bank.",1
+lloyds_c,When you need support,,,1,support,0,,,,
+lloyds_c,Keeping track of your spending,The advice is the same if you have diarrhoea and vomiting together or separately.,1,0,track,0,1,0,"Answer: No
+
+Justification: The header ""Keeping track of your spending"" suggests that the body text should be discussing ways to monitor or manage one's expenses. However, the body text appears to be talking about medical advice related to diarrhoea and vomiting, which has no connection to keeping track of spending.",1
+lloyds_c,Money worries,"stay at home and get plenty of rest, drink lots of fluids, such as water or squash – take small sips if you feel sick, carry on breast or bottle feeding your baby – if they're being sick, try giving small feeds more often than usual, give babies on formula or solid foods small sips of water between feeds, eat when you feel able to – it may help to avoid foods that are fatty or spicy, take paracetamol if you're in discomfort – check the leaflet before giving it to your child",1,0,money,0,1,0,"Answer: No
+
+Justification: The header ""Money worries"" suggests that the body text should be related to financial concerns or stress caused by money issues. However, the body text appears to be providing advice on how to care for a sick baby, including tips on hydration, nutrition, and medication. There is no apparent connection between the header and the body text, making them mismatched.",1
 lloyds_c,"Free independent
 money advice","do not have fruit juice or fizzy drinks – they can make diarrhoea worse
 
@@ -770,7 +868,9 @@ do not make baby formula weaker – use it at its usual strength
 
 do not give children under 12 medicine to stop diarrhoea
 
-do not give aspirin to children under 16",1,0,,,,,,
+do not give aspirin to children under 16",1,0,"money, advice",0,1,0,"Answer: No
+
+Justification: The header mentions ""free independent money advice"", but the body text appears to be providing medical advice about treating diarrhea in children, unrelated to financial topics.",1
 lloyds_c,How long diarrhoea and vomiting last,"We know that in life things can change.
 Whether it's something you've planned
 for or something unexpected, you may
@@ -784,6 +884,10 @@ lloydsbank.com/by-your-side or you
 can book a personal review with one of
 our advisers. They can help you budget,
 or guide you through the best options
-to manage your money.",1,1,,,,,,
+to manage your money.",1,0,"diarrhoea, vomiting",0,1,0,"Answer: No
+
+Justification: The header ""How long diarrhoea and vomiting last"" suggests that the body text should discuss the duration of diarrhoea and vomiting symptoms, but instead, the body text talks about changes in life and offers guidance on managing finances, which has no connection to the topic of diarrhoea and vomiting.",1
 lloyds_c,Diarrhoea and vomiting can spread easily,"If you want to make a complaint,
-you can.",1,1,,,,,,
+you can.",1,0,"diarrhoea, vomiting",0,1,0,"Answer: No
+
+Justification: The header mentions ""Diarrhoea and vomiting"", which suggests that the content will be related to health or hygiene issues. However, the body text talks about making a complaint, which seems unrelated to the topic mentioned in the header.",1
