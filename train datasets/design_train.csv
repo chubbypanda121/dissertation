@@ -1,0 +1,26 @@
+﻿bank,type,H_design,L_design,L_design_notes,H_design_notes,L_design_2
+barclays,title,0,0,,,0
+barclays,main heading,0,0,,,0
+barclays,subheading,0,0,,,0
+hsbc,title,0,0,,,1
+hsbc,main heading,0,0,,,0
+hsbc,subheading,0,0,,,0
+lloyds,title,1,0,,too similar to heading,0
+lloyds,main heading,0,0,hallucinates additional heading types than given because of phrasing of question,,0
+natwest,main heading,0,0,,,0
+natwest,subheading,0,0,,,0
+santander,main heading,0,0,,,0
+santander,sunheading 1,0,0,,,0
+santander,subheading 2,0,0,,,0
+first_direct,main heading,0,0,,,0
+first_direct,subheading 1,1,0,,,0
+first_direct,subheading 2,1,0,,too similar in size to above and bolding technique used in body,0
+lloyds_d,title,0,0,,,0
+lloyds_d,main heading,0,0,,,0
+lloyds_d,subheading,0,0,,,0
+first_direct_l,title,0,0,,,0
+first_direct_l,main heading,0,0,,,0
+first_direct_l,subheading,0,0,,,0
+santander_l,title,0,0,,,0
+santander_l,main heading,0,0,,,0
+santander_l,subheading,0,0,,,0

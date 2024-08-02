@@ -1,0 +1,178 @@
+bank,header,level,H_grammar,H_grammar_notes,H_passive_verbs,H_subheadings,H_subheadings_notes,H_length,N_length_notes,N_length
+barclays,Barclays Wealth Management Additional Banking Terms,0,,,,,,0,6,0
+barclays,1. How the Customer Agreement applies to non-personal Barclays Wealth Management Banking customers,0,,,,,,0,13,0
+barclays,2. Keeping each other informed,0,,,,,,0,5,0
+barclays,3. Carrying out your instructions,0,,,,,,0,5,0
+barclays,4. Making payments out of and into your account,0,,,,,,0,9,0
+barclays,Making payments out of your account,1,,,,0.0,,0,6,0
+barclays,Payments into your account,1,,,,0.0,,0,4,0
+barclays,International payments,2,,,,0.0,,1,2,1
+barclays,5. Borrowing on a joint account,0,,,,,,0,6,0
+barclays,6. If something goes wrong,0,,,,,,0,5,0
+barclays,If you owe us money,1,,,,0.0,,0,5,0
+barclays,7. Costs and charges,0,,,,,,1,4,0
+barclays,8. Complaints,0,,,,,,1,2,1
+barclays,9. If something happens to you,0,,,,,,0,6,0
+barclays,What happens if someone dies,1,,,,1.0,what happens to you and if someone dies doesn't match- main heading should be different,0,5,0
+barclays,What happens if a non-personal customer goes out of business,1,,,,0.0,,0,10,0
+hsbc,Personal Loans,0,,,,,,1,2,1
+hsbc,Terms and Conditions,0,,,,,,1,3,0
+hsbc,How and when will we give you the loan?,1,,,,0.0,,0,9,0
+hsbc,What is the cost of the loan?,1,,,,0.0,,0,7,0
+hsbc,How must you repay the loan?,1,,,,0.0,,0,6,0
+hsbc,What should you do if your details change?,1,,,,0.0,,0,8,0
+hsbc,Can you repay the loan early?,1,,,,0.0,,0,6,0
+hsbc,What are our rights if you miss a repayment or we have other concerns?,1,1.0,"Comma missing: ""repayment, or""",,0.0,,0,14,0
+hsbc,Can we use any other funds to repay the loan?,1,,,,0.0,,0,10,0
+hsbc,Can we transfer our rights under this agreement?,1,,,,0.0,,0,8,0
+hsbc,What law governs this agreement?,1,,,,0.0,,0,5,0
+hsbc,Right to withdraw,1,,,,0.0,,0,3,0
+hsbc,Important information,0,,,,,,1,2,1
+hsbc,How to contact us,1,,,,0.0,,0,4,0
+hsbc,How can you keep track of what you owe?,1,,,,0.0,,0,9,0
+hsbc,How can you make a complaint?,1,,,,0.0,,0,6,0
+hsbc,How we are authorised,1,,,1.0,0.0,,0,4,0
+hsbc,Accessibility,0,,,,,,1,1,1
+lloyds,Club Lloyds Lifestyle Benefits Terms and Conditions,0,,,,,,0,7,0
+lloyds,General Terms and Conditions,0,,,,,,0,4,0
+lloyds,Cinema Terms and Conditions,0,,,,,,0,4,0
+lloyds,Vue Specific Cinema Terms and Conditions,0,,,,,,0,6,0
+lloyds,ODEON Specific Cinema Terms and Conditions,0,,,,,,0,6,0
+lloyds,Gourmet Society Digital Membership Terms and Conditions,0,,,,,,0,7,0
+lloyds,Magazine Subscription Terms and Conditions,0,,,,,,0,5,0
+lloyds,Rakuten TV Terms and Conditions,0,,,,,,0,5,0
+natwest,MyRewards Terms,0,,,,,,0,2,1
+natwest,Contents,0,,,,,,0,1,1
+natwest,1 What is MyRewards?,0,,,,,,0,4,0
+natwest,2 How to set up your MyRewards,0,,,,,,0,7,0
+natwest,3 Earning Rewards,0,,,,,,0,3,0
+natwest,(a) What are Rewards and how do you earn them?,1,,,,0.0,,0,10,0
+natwest,(b) Joint accounts (current accounts),1,,,,1.0,not sure how it connects,1,5,0
+natwest,(c) Additional cardholders (credit cards),1,,,,1.0,not sure how it connects,1,5,0
+natwest,(d) Payments which won't earn Rewards,1,,,,0.0,,0,6,0
+natwest,4 How you can use your Rewards,0,,,,0.0,,0,7,0
+natwest,5 How we'll get in touch with you and how we use your information,0,,,,,,0,14,0
+natwest,(a) Communications from us,1,,,,0.0,,0,4,0
+natwest,(b) Keeping your details up to date,1,,,,0.0,,0,7,0
+natwest,(c) How we use your information,1,,,,0.0,,0,6,0
+natwest,6 Security,0,,,,,,1,2,1
+natwest,7 Changing the MyRewards service,0,,,,,,0,5,0
+natwest,8 Suspending or closing your MyRewards service,0,,,,,,0,7,0
+natwest,(a) When we can suspend your MyRewards,1,,,,0.0,,0,7,0
+natwest,(b) Closing your MyRewards,1,,,,0.0,,0,4,0
+natwest,9 Availability of the MyRewards service and our liability,1,,,,,,0,9,0
+santander,Current Accounts Specific Conditions for accounts no longer available to new customers,0,,,,,,0,12,0
+santander,Contents,0,,,,,,0,1,1
+santander,Specific Conditions,0,,,,,,1,2,1
+santander,Specific Conditions A: For Zero Current Accounts,1,,,,0.0,,0,7,0
+santander,A1 Introduction,2,,,,0.0,,1,2,1
+santander,A2 Eligibility,2,,,,0.0,,1,2,1
+santander,A3 Number of accounts,2,,,,0.0,,0,4,0
+santander,A4 Use of your account,2,,,,0.0,,0,5,0
+santander,A5 Joint Accounts,2,,,,0.0,,1,3,0
+santander,A6 Overdrafts,2,,,,0.0,,1,2,1
+santander,A7 Definitions,2,,,,0.0,,1,2,1
+santander,Specific Conditions B: Instant Plus Account,1,,,,0.0,,0,6,0
+santander,B1 Joint accounts,2,,,,0.0,,1,3,0
+santander,B2 Paying money into your account,2,,,,0.0,,0,6,0
+santander,B3 Overdrafts,2,,,,0.0,,1,2,1
+santander,B4 Refusing a payment due to lack of funds,2,,,,0.0,,0,9,0
+santander,B5 Transferring your account,2,,,,0.0,,0,4,0
+santander,Specific Conditions C: For 1I2I3 Graduate Current Accounts,1,,,,0.0,,0,8,0
+santander,C1 Introduction,2,,,,0.0,,1,2,1
+santander,C2 Eligibility,2,,,,0.0,,1,2,1
+santander,C3 Use of your account,2,,,,0.0,,0,5,0
+santander,C4 Joint Accounts,2,,,,0.0,,1,3,0
+santander,C5 Overdrafts,2,,,,0.0,,1,2,1
+santander,C6 Allowing a payment despite lack of funds,2,,,,0.0,,0,8,0
+santander,C7 Maintaining the account,2,,,,0.0,,0,4,0
+santander,C8 Funding requirements,2,,,,0.0,,0,3,0
+santander,C9 Transferring your account,2,,,,0.0,,0,4,0
+santander,Specific Conditions D: For 1I2I3 Postgraduate Current Accounts Introduction,1,,,,0.0,,0,9,0
+santander,D2 Eligibility,2,,,,0.0,,1,2,1
+santander,D3 Use of your account,2,,,,0.0,,0,5,0
+santander,D4 Joint Accounts,2,,,,0.0,,1,3,0
+santander,D5 Maintaining the account,2,,,,0.0,,0,4,0
+santander,D6 Funding requirements,2,,,,0.0,,1,3,0
+santander,D7 Overdrafts,2,,,,0.0,,1,2,1
+santander,D8 Allowing a payment despite lack of funds,2,,,,0.0,,0,8,0
+santander,D9 Ending your studies,2,,,,0.0,,0,4,0
+santander,Specific Conditions E: Variations to all accounts,1,,,,0.0,,0,7,0
+first_direct,Give me the facts,0,,,,,,0,4,0
+first_direct,Welcome,0,,,,,,1,1,1
+first_direct,Contents,0,,,,,,0,1,1
+first_direct,Accessibility,1,,,,1.0,why is accessibility under contents,1,1,1
+first_direct,Easy access to your account,0,,,,,,0,5,0
+first_direct,Online,1,,,,0.0,,1,1,1
+first_direct,On your mobile,1,,,,0.0,,1,3,0
+first_direct,By phone,1,,,,0.0,,1,2,1
+first_direct,By Text-phone,1,,,,0.0,,1,2,1
+first_direct,In HSBC branches,1,,,,0.0,,1,3,0
+first_direct,Services available at Post Office branches,1,1.0,"miscapitalisation of ""Payment""",,0.0,,0,6,0
+first_direct,What Payment types are there?,0,1.0,"miscapitalisation of ""Payment"" (in-context with document)",,,,0,5,0
+first_direct,International Payments,1,,,,0.0,,1,2,1
+first_direct,Protecting your information,0,,,,,,0,3,0
+first_direct,Keep your details up-to-date,2,,,,0.0,,0,4,0
+first_direct,Regularly check your statements,2,,,,0.0,,0,4,0
+first_direct,Tips for writing cheques,2,,,,1.0,uncertain how it relates,0,4,0
+first_direct,Telephone banking,2,,,,1.0,uncertain how it relates,1,2,1
+first_direct,Textphone users,2,,,,1.0,uncertain how it relates,1,2,1
+first_direct,Important Security Information,2,,,,0.0,,0,3,0
+first_direct,General,2,,,,1.0,uncertain how it relates,1,1,1
+first_direct,Cards and Card PINs,2,,,,0.0,,1,4,0
+first_direct,Contacting us about security concerns,2,,,,0.0,,0,5,0
+first_direct,Additional information,0,,,,,,1,2,1
+first_direct,Services for disabled customers,1,,,,0.0,,0,4,0
+first_direct,Important information,0,,,,,,1,2,1
+first_direct,Protecting yourself against Fraud and financial crime,1,1.0,"miscapitalisation of ""Fraud""",,1.0,should be under earlier header,0,7,0
+first_direct,Dormant accounts,1,,,,0.0,,1,2,1
+first_direct,Financial difficulties,1,,,,0.0,,1,2,1
+first_direct,The Financial Services Compensation Scheme,1,,,,0.0,,0,5,0
+santander_c,Terms for cashback applicable to the All in One Credit Card,0,1.0,"Needs hypens: ""All-in-One""",,,,0,11,0
+santander_c,Eligible purchases,0,,,,,,1,2,1
+santander_c,How we pay cashback,0,,,,,,0,4,0
+santander_c,Stopping or changing cashback payments,0,,,,,,0,5,0
+santander_c,"Queries, complaints and how we are regulated",0,,,1.0,,,0,7,0
+natwest_p,NatWest Privacy Notice,0,,,,,,0,3,0
+natwest_p,Contents,0,,,,,,0,1,1
+natwest_p,1 Who we are,0,,,,,,0,4,0
+natwest_p,2 The information we process,0,,,,,,0,5,0
+natwest_p,3 How we obtain information,0,,,,,,0,5,0
+natwest_p,4 Your rights,0,,,,,,0,3,0
+natwest_p,Table A - Your Rights,1,,,,0.0,,0,5,0
+natwest_p,5 Changes to the way we use your information,0,,,,,,0,9,0
+natwest_p,6 How we use and share your information with other NatWest group companies,0,,,,,,0,13,0
+natwest_p,7 Sharing with third parties,0,,,,,,0,5,0
+natwest_p,8 Transferring information overseas,0,,,,,,0,4,0
+natwest_p,9 Marketing information,0,,,,,,1,3,0
+natwest_p,10 Communications about your account,0,,,,,,0,5,0
+natwest_p,11 Credit reference and fraud prevention agencies,0,,,,,,0,7,0
+natwest_p,12 How long we keep your information,0,,,,,,0,7,0
+natwest_p,13 Security,0,,,,,,1,2,1
+natwest_p,Schedule A - Schedule of Purposes of Processing,1,,,,1.0,relevance not established,0,8,0
+natwest_p,A Contractual necessity,2,,,,1.0,relevance not established,1,3,0
+natwest_p,B Legal obligation,2,,,,1.0,relevance not established,1,3,0
+natwest_p,C Legitimate interests of the bank,2,,,,1.0,relevance not established,0,6,0
+barclays_m,Mortgage Intermediary - Terms and Conditions,0,,,,,,0,6,0
+barclays_m,In these Terms and Conditions the following definitions shall apply:,1,1.0,"Comma missing: ""Terms and Conditions, the following""",1.0,0.0,,0,10,0
+barclays_m,1. Supply of Services,1,,,,0.0,,1,4,0
+barclays_m,2. Knowing Your Customer (KYC) Checks,1,,,,0.0,,0,6,0
+barclays_m,3. Applications,1,,,,0.0,,1,2,1
+barclays_m,4. Authorisation Requirements,1,,,,0.0,,1,3,0
+barclays_m,5. Compliance Requirements,1,,,,0.0,,1,3,0
+barclays_m,6. Complaints Procedure,1,,,,0.0,,1,3,0
+barclays_m,7. Fees,1,,,,0.0,,1,2,1
+barclays_m,8. Procedure for Payment of Procurement Fees,1,,,,0.0,,0,7,0
+barclays_m,9. Monitoring and Access,1,,,,0.0,,1,4,0
+barclays_m,10. Intellectual Property Rights and Indemnity,1,,,,0.0,,0,6,0
+barclays_m,11. Confidentiality and Data Protection,1,,,,0.0,,0,5,0
+barclays_m,12. Indemnity and Insurance,1,,,,0.0,,1,4,0
+barclays_m,13. Liability,1,,,,0.0,,1,2,1
+barclays_m,14. Term and Termination,1,,,,0.0,,1,4,0
+barclays_m,15. General,1,,,,0.0,,1,2,1
+barclays_m,16. Anti-Bribery,1,,,,0.0,,1,2,1
+barclays_m,17. Governing Law and Jurisdiction,1,,,,0.0,,1,5,0
+barclays_m,18. Disclosure,1,,,,0.0,,1,2,1
+barclays_m,19. Entire Agreement,1,,,,0.0,,1,3,0
+barclays_m,20. United States Government Contact,1,,,,0.0,,0,5,0
+barclays_m,How We will use personal information about You,1,1.0,Incorrect capitalisation: all words need to be capitalised,,1.0,improper formatting consistency,0,8,0
